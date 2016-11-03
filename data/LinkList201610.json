@@ -1,0 +1,325 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2016-11-03T09:50:09.2161089+08:00",
+    "Heading": "Month of 2016-10",
+    "GenerateFilename": "c:\\temp\\LinkList0000.md",
+    "SourceFilename": "c:\\temp\\LinkList0000.json"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Sass (Syntactically Awesome StyleSheets)",
+      "Description": null,
+      "FromUrl": "<http://sass-lang.com/documentation/file.SASS_REFERENCE.html> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "JSON Generator",
+      "Description": "Generates test data",
+      "FromUrl": "<http://www.json-generator.com/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Angular 2, React, and Knockout apps on ASP.NET Core",
+      "Description": "Starter kits",
+      "FromUrl": "<http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Dummy’s guide for the Difference between OAuth Authentication and OpenID",
+      "Description": null,
+      "FromUrl": "<http://nat.sakimura.org/2011/05/15/dummys-guide-for-the-difference-between-oauth-authentication-and-openid/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "An introduction to OpenID Connect in ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<http://andrewlock.net/an-introduction-to-openid-connect-in-asp-net-core/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "The Basics Of ES6 Generators",
+      "Description": null,
+      "FromUrl": "<https://davidwalsh.name/es6-generators> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Ramda",
+      "Description": null,
+      "FromUrl": "<http://ramdajs.com/docs/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "NativeScript",
+      "Description": "See how Kendo UI, NativeScript and Angular make your life easier ",
+      "FromUrl": "<https://www.nativescript.org/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Dealing with Anti-Virus False Positives",
+      "Description": null,
+      "FromUrl": "<https://weblog.west-wind.com/posts/2016/Oct/05/Dealing-with-AntiVirus-False-Positives> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "VirusTotal is a free virus, malware and URL online scanning service. File checking is done with more than 40 antivirus solutions.",
+      "Description": null,
+      "FromUrl": "<https://www.virustotal.com/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Code Review Beyond Meeting Rooms and Projectors",
+      "Description": null,
+      "FromUrl": "<http://www.daedtech.com/code-review-beyond-meeting-rooms-projectors/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "JSHint is a program that flags suspicious usage in programs written in JavaScript.",
+      "Description": "Doesn’t work with React. Use eslint.",
+      "FromUrl": "<http://jshint.com/docs/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Markdown: Syntax",
+      "Description": "By JOHN GRUBER",
+      "FromUrl": "<https://daringfireball.net/projects/markdown/syntax> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Develop iOS Apps on a Windows PC",
+      "Description": null,
+      "FromUrl": "<http://www.bluecloudsolutions.com/blog/develop-apps-on-windows-pc/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "macincloud",
+      "Description": null,
+      "FromUrl": "<http://www.macincloud.com/pricing/compare> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Temporal Tables are generally available in Azure SQL Database",
+      "Description": null,
+      "FromUrl": "<https://azure.microsoft.com/en-us/blog/general-availability-temporal-tables-in-azure-sql-database/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Continuous Javascript Test Execution with WallabyJS",
+      "Description": null,
+      "FromUrl": "<http://blogs.lessthandot.com/index.php/webdev/continuous-javascript-test-execution-with-wallabyjs/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Wallaby.js - ",
+      "Description": "Integrated Continuous Testing Tool for JavaScript",
+      "FromUrl": "<https://wallabyjs.com/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Reducing Code-Build-Test Friction with NCrunch",
+      "Description": null,
+      "FromUrl": "<http://blogs.lessthandot.com/index.php/enterprisedev/unittest/reducing-code-build-test-friction/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "NCrunch is an automated concurrent testing tool for Visual Studio",
+      "Description": null,
+      "FromUrl": "<http://www.ncrunch.net/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "MediatR Pipeline Examples",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2016/10/13/mediatr-pipeline-examples/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "What to do when Your Colleague Creates Spaghetti Code",
+      "Description": null,
+      "FromUrl": "<http://www.daedtech.com/colleague-creates-spaghetti-code/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "USING SASS WITH WEBPACK, ANGULAR2 AND VISUAL STUDIO",
+      "Description": null,
+      "FromUrl": "<https://damienbod.com/2016/10/14/using-sass-with-webpack-angular2-and-visual-studio/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "morris.js",
+      "Description": "good-looking charts shouldn't be difficult",
+      "FromUrl": "<http://morrisjs.github.io/morris.js/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Error Handling and ExceptionFilter Dependency Injection for ASP.NET Core APIs",
+      "Description": null,
+      "FromUrl": "<https://weblog.west-wind.com/posts/2016/Oct/16/Error-Handling-and-ExceptionFilter-Dependency-Injection-for-ASPNET-Core-APIs> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ASP.NET Core and CORS Gotchas",
+      "Description": null,
+      "FromUrl": "<http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/RickStrahl> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "redux-saga",
+      "Description": null,
+      "FromUrl": "<https://yelouafi.github.io/redux-saga/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "5 Questions Every Unit Test Must Answer",
+      "Description": "Most Developers Don’t Know How to Test",
+      "FromUrl": "<https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.duvmwgbqx> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Why use Tape Instead of Mocha",
+      "Description": null,
+      "FromUrl": "<https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.vp0smc5zd> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "tap-producing test harness for node and browsers",
+      "Description": "crystal clarity and essential simplicity",
+      "FromUrl": "<https://github.com/substack/tape> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Getting Started with Redux",
+      "Description": "*I know this has been mentioned before",
+      "FromUrl": "<https://egghead.io/courses/getting-started-with-redux> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Building React Applications with Idiomatic Redux",
+      "Description": "*I missed these ones. Dan Abramov.",
+      "FromUrl": "<https://egghead.io/courses/building-react-applications-with-idiomatic-redux> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "10 Tips for Better Redux Architecture",
+      "Description": null,
+      "FromUrl": "<https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Immutable",
+      "Description": null,
+      "FromUrl": "<https://facebook.github.io/immutable-js/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ANGULAR2 AUTOCOMPLETE WITH ASP.NET CORE AND ELASTICSEARCH",
+      "Description": null,
+      "FromUrl": "<https://damienbod.com/2016/10/17/angular2-autocomplete-with-asp-net-core-and-elasticsearch/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "CouchDB",
+      "Description": null,
+      "FromUrl": "<http://couchdb.apache.org/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Cheerio",
+      "Description": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server",
+      "FromUrl": "<https://cheerio.js.org/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "envify",
+      "Description": "Selectively replace Node-style environment variables with plain strings",
+      "FromUrl": "<https://www.npmjs.com/package/envify> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "dotenv",
+      "Description": "Loads environment variables from .env file",
+      "FromUrl": "<https://www.npmjs.com/package/dotenv> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Resource Description Framework (RDF)",
+      "Description": null,
+      "FromUrl": "<https://www.w3.org/RDF/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "A LINKED DATA OVERVIEW FOR WEB API DEVELOPERS",
+      "Description": null,
+      "FromUrl": "<http://blog.howarddierking.com/2016/10/15/a-linked-data-overview-for-web-api-developers/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.",
+      "Description": null,
+      "FromUrl": "<http://graphql.org/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Lodash",
+      "Description": "A modern JavaScript utility library delivering modularity, performance & extras.Lodash has many useful utilities, including debounce and throttle.It's a large library, so just import what you need.     import {throttle} from 'lodash/throttle'",
+      "FromUrl": "<https://lodash.com/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Tips for using async functions (ES2017)",
+      "Description": null,
+      "FromUrl": "<http://www.2ality.com/2016/10/async-function-tips.html> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Respawn is a small utility to help in resetting test databases to a known state",
+      "Description": null,
+      "FromUrl": "<https://github.com/jbogard/respawn> ",
+      "Tag": "star"
+    }
+  ]
+}

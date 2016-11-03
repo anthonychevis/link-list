@@ -1,0 +1,241 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2016-11-03T08:55:17.1590116+08:00",
+    "Heading": "Month of 2016-04",
+    "GenerateFilename": "c:\\temp\\LinkList0000.md",
+    "SourceFilename": "c:\\temp\\LinkList0000.json"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Feature Toggles",
+      "Description": "A way to turn on and off new features. This way you can avoid \"new feature\" branches and place the feature directly in the \"main\" branch - then you can turn it on or off as you need. ",
+      "FromUrl": "<http://martinfowler.com/articles/feature-toggles.html> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Thanks For Ruining Another Game Forever, Computers",
+      "Description": "Watch the enclosed video.",
+      "FromUrl": "<http://blog.codinghorror.com/thanks-for-ruining-another-game-forever-computers/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Demis Hassabis, CEO, DeepMind Technologies - The Theory of Everything",
+      "Description": "Here's a talk which covers DeepMind learning to play classic Atari 2600 videogames. (Jump to the 10 minute mark to see what I mean.)",
+      "FromUrl": "<https://www.youtube.com/watch?v=rbsqaJwpu6A> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Separation of Concerns: Application Builds & Continuous Integration",
+      "Description": "The development build, not the build server, should contain all logic to create a working build of the project. The build server should just have one-step, calling a build tool (like NANT or GULP). That way you are free to use any build server for your CI.",
+      "FromUrl": "<https://lostechies.com/derekgreer/2016/02/28/separation-of-concerns-application-builds-continuous-integration/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Using Gulp to Build and Deploy .NET Apps on Windows November, 2014",
+      "Description": null,
+      "FromUrl": "<http://www.mikeobrien.net/blog/using-gulp-to-build-and-deploy-dotnet-apps-on-windows/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Stack Overflow: The Architecture - 2016 Edition",
+      "Description": null,
+      "FromUrl": "<http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Stack Overflow: The Hardware - 2016 Edition",
+      "Description": null,
+      "FromUrl": "<http://nickcraver.com/blog/2016/03/29/stack-overflow-the-hardware-2016-edition/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Trust in UX: UXTesting's collaborative solution for better UX design",
+      "Description": "This is my former coworker's company in Taipei",
+      "FromUrl": "<https://www.uxtesting.io/blog/13/trust-in-ux-uxtesting-s-collaborative-solution-for-better-ux-design> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Introducing Application Insights Analytics",
+      "Description": "Has anyone used this? Looks totally cool.",
+      "FromUrl": "<https://blogs.msdn.microsoft.com/bharry/2016/03/28/introducing-application-analytics/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ReproducibleBuild",
+      "Description": null,
+      "FromUrl": "<http://martinfowler.com/bliki/ReproducibleBuild.html> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "It's Not Just Standing Up: Patterns for Daily Standup Meetings",
+      "Description": "A very long read, but interesting I think, particularly if you are Team Lead or want to be.",
+      "FromUrl": "<http://martinfowler.com/articles/itsNotJustStandingUp.html> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Announcing ASP.NET WebHooks Release Candidate 1",
+      "Description": "Provides a simple mechanism for sending event notifications across web applications and external services",
+      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2016/03/05/announcing-asp-net-webhooks-release-candidate-1/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Xamarin: Next Steps",
+      "Description": "An older post about Microsoft sucking in Xamarin.",
+      "FromUrl": "<http://blogs.tedneward.com/post/xamarin-next-steps/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Web Extension Pack for Visual Studio 2015",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2016/03/09/web-extension-pack-for-visual-studio-2015/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Software Lessons from Property Brothers",
+      "Description": "You can skip this one. But gotta love Jimmy.",
+      "FromUrl": "<https://lostechies.com/jimmybogard/2016/03/14/software-lessons-from-property-brothers/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "CI with TeamCity and Docker – Part 1",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/gabrielschenker/2016/03/22/ci-with-teamcity-and-docker/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Deploying Azure web applications with FAKE",
+      "Description": null,
+      "FromUrl": "<https://cockneycoder.wordpress.com/2016/04/05/deploying-web-applications-azure-with-fake/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Edument CQRS and Intentful Testing Starter Kit",
+      "Description": "Tutorial and starter kit fir CQRS. This is worth the effort of following all the way through this.",
+      "FromUrl": "<http://cqrs.nu/tutorial> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "CQRS Journey",
+      "Description": "A really long and boring read - I recommend it strongly",
+      "FromUrl": "<https://msdn.microsoft.com/en-us/library/jj554200.aspx> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ASP.Net – Ensure your Actions aren’t missing Authorization with Unit Tests",
+      "Description": "nice tip for testing cross cutting concerns from inside a unit testing framework",
+      "FromUrl": "<http://blogs.lessthandot.com/index.php/webdev/asp-net-ensure-your-actions-arent-missing-authorization-with-unit-tests/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "How to host your own NuGet Server and Package Feed",
+      "Description": "By the way, Visual Studio Team Services offers private NuGet Feeds",
+      "FromUrl": "<http://www.hanselman.com/blog/HowToHostYourOwnNuGetServerAndPackageFeed.aspx> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Let’s Encrypt",
+      "Description": "Free CA",
+      "FromUrl": "<https://letsencrypt.org/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Protect Data in Transit",
+      "Description": "Nice little introduction to https, TLS, certificates, CA, etc.",
+      "FromUrl": "<http://martinfowler.com/articles/web-security-basics.html#ProtectDataInTransit> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "React Native on the Universal Windows Platform",
+      "Description": "Enables native iOS and Android development with React - Facebook open source",
+      "FromUrl": "<https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "CodePush",
+      "Description": "Cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices",
+      "FromUrl": "<https://microsoft.github.io/code-push/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Apache Cordova",
+      "Description": "(formerly PhoneGap) is a popular mobile application development framework",
+      "FromUrl": "<https://en.wikipedia.org/wiki/Apache_Cordova> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "The Raft Consensus Algorithm",
+      "Description": "Algorithm for clustering",
+      "FromUrl": "<https://raft.github.io/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Mocks Aren't Stubs",
+      "Description": "An oldie but goodie",
+      "FromUrl": "<http://martinfowler.com/articles/mocksArentStubs.html> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Agile manifesto",
+      "Description": "English: From <http://agilemanifesto.org/principles.html> Chinese: From <http://agilemanifesto.org/iso/zhcht/> WHAT IS MICROSERVICES ARCHITECTURE?",
+      "FromUrl": "<https://smartbear.com/learn/api-design/what-are-microservices/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Aspect-Oriented Programming : Aspect-Oriented Programming with the RealProxy Class",
+      "Description": "Thanks Wilson!",
+      "FromUrl": "<https://msdn.microsoft.com/en-us/magazine/dn574804.aspx> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Why a microservices approach to building applications?",
+      "Description": null,
+      "FromUrl": "<https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview-microservices/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Service Fabric programming model overview",
+      "Description": null,
+      "FromUrl": "<https://azure.microsoft.com/en-us/documentation/articles/service-fabric-choose-framework/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Service Fabric programming model overview",
+      "Description": null,
+      "FromUrl": "<https://azure.microsoft.com/en-us/documentation/articles/service-fabric-choose-framework/> ",
+      "Tag": null
+    }
+  ]
+}

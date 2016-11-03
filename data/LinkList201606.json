@@ -1,0 +1,290 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2016-11-03T09:07:33.8055619+08:00",
+    "Heading": "Month of 2016-06",
+    "GenerateFilename": "c:\\temp\\LinkList0000.md",
+    "SourceFilename": "c:\\temp\\LinkList0000.json"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ServiceStack, a journey into the madness of microservices",
+      "Description": "Part 3 - Service discovery, load balancing and routing",
+      "FromUrl": "<http://www.wwwlicious.com/2016/05/11/servicestack-microservices-discovery-routing-3/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "INTRODUCTION TO CONSUL",
+      "Description": "a tool for discovering and configuring services in your infrastructure.",
+      "FromUrl": "<https://www.consul.io/intro/index.html> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ServiceStack Plugin for Service Discovery using Consul.io",
+      "Description": null,
+      "FromUrl": "<https://github.com/MacLeanElectrical/servicestack-discovery-consul> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Eureka at a glance",
+      "Description": "[By Netflix] Eureka is a REST (Representational State Transfer) based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers. ",
+      "FromUrl": "<https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Fabio ",
+      "Description": "fabio is a fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.",
+      "FromUrl": "<https://github.com/eBay/fabio> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Using Westwind.Globalization to edit loose RESX Files",
+      "Description": "Westwind.Globalization is a library that allows you to use a database to store localization resources for editing or runtime loading, along with rich editing and conversion tools that can easily import and export resources to and from Resx.",
+      "FromUrl": "<http://weblog.west-wind.com/posts/2016/May/18/Using-WestwindGlobalization-to-edit-loose-RESX-Files> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Strongly Typed Configuration Settings in ASP.NET Core",
+      "Description": "ASP.NET Core has a pluggable configuration system which supports a variety of different mechanisms for reading configuration data. The configuration extensions give you access to the required Configuration overload to map a strongly typed class to a configuration section in the configuration store.",
+      "FromUrl": "<http://weblog.west-wind.com/posts/2016/May/23/Strongly-Typed-Configuration-Settings-in-ASPNET-Core> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "What happens when you type google.com into your browser's address box and press enter?",
+      "Description": " we're going to try to answer this question in as much detail as possible. No skipping out on anything.",
+      "FromUrl": "<https://github.com/alex/what-happens-when> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Builder: C#",
+      "Description": "Factory pattern",
+      "FromUrl": "<http://blogs.tedneward.com/patterns/Builder-CSharp/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "How to Build a Search Page with Elasticsearch and .NET",
+      "Description": null,
+      "FromUrl": "<https://www.simple-talk.com/dotnet/development/how-to-build-a-search-page-with-elasticsearch-and-.net/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "SQL LOCALIZATION NUGET PACKAGE FOR ASP.NET CORE",
+      "Description": null,
+      "FromUrl": "<https://damienbod.com/2016/05/26/released-sql-localization-nuget-package-for-asp-net-core-dotnet/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Logging in .NET with Exceptionless",
+      "Description": null,
+      "FromUrl": "<http://codeopinion.com/logging-net-exceptionless/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Adding CORS support for ASP.NET / WebAPI: The no hassle way",
+      "Description": "Code in a HttpModule needed to support CORS (Cross-origin resource sharing). ",
+      "FromUrl": "<http://geekswithblogs.net/abhijeetp/archive/2016/06/04/adding-cors-support-for-asp.net--webapi-the-no-hassle.aspx> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ASP.NET MVC Boilerplate",
+      "Description": "A professional ASP.NET MVC template for building secure, fast, robust and adaptable web applications or sites.",
+      "FromUrl": "<https://visualstudiogallery.msdn.microsoft.com/6cf50a48-fc1e-4eaf-9e82-0b2a6705ca7d> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "MediatR (from Jimmy Bogard)",
+      "Description": "A low-ambition library trying to solve a simple problem - decoupling the in-proc sending of messages from handling messages.",
+      "FromUrl": "<https://github.com/jbogard/MediatR/wiki> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "SIMPLIFY YOUR CONTROLLERS WITH THE COMMAND PATTERN AND MEDIATR",
+      "Description": "How to use it in MVC",
+      "FromUrl": "<https://jonhilton.net/2016/06/06/simplify-your-controllers-with-the-command-pattern-and-mediatr/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Getting Started with Redux",
+      "Description": "30 part video tutorial introducing Redux with React",
+      "FromUrl": "<https://egghead.io/courses/getting-started-with-redux> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Redux",
+      "Description": null,
+      "FromUrl": "<http://redux.js.org/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Does Redux have a built-in way to undo actions?",
+      "Description": null,
+      "FromUrl": "<http://stackoverflow.com/questions/32526211/does-redux-have-a-built-in-way-to-undo-actions> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Running .NET Core on Docker",
+      "Description": null,
+      "FromUrl": "<https://medium.com/trafi-tech-beat/running-net-core-on-docker-c438889eb5a#.wzxci41o5> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ASP.NET Core 1.0 Schedule and Roadmap",
+      "Description": "Release set on June 27",
+      "FromUrl": "<https://github.com/aspnet/Home/wiki/Roadmap> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "CQRS and REST: the perfect match",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Angular Directives Mapped to React",
+      "Description": null,
+      "FromUrl": "<https://daveceddia.com/angular-directives-mapped-to-react/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "10 Lessons from a Long Running DDD Project – Part 1",
+      "Description": "Jimmy Bogard kicks off what promises to be an interesting series looking at some of the real world lessons learned from a long term Domain Driven Design project",
+      "FromUrl": "<https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Announcing WCF Connected Service for .NET Core RC2 and ASP.NET Core RC2",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2016/05/25/announcing-wcf-connected-service-for-net-core-rc2-and-asp-net-core-rc2/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ASP.NET Core: No more worries about checking in secrets",
+      "Description": null,
+      "FromUrl": "<http://www.jerriepelser.com/blog/aspnet-core-no-more-worries-about-checking-in-secrets> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "ASP.NET Core Distributed Cache Tag Helper",
+      "Description": null,
+      "FromUrl": "<http://www.davepaquette.com/archive/2016/05/22/ASP-NET-Core-Distributed-Cache-Tag-Helper.aspx> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "MSBuild Structured Log: record and visualize your builds",
+      "Description": null,
+      "FromUrl": "<http://www.hanselman.com/blog/MSBuildStructuredLogRecordAndVisualizeYourBuilds.aspx> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "A deep dive into the ASP.NET Core CORS library",
+      "Description": null,
+      "FromUrl": "<http://andrewlock.net/a-deep-dive-in-to-the-asp-net-core-cors-library/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Templates for building React.js front-ends in ASP.NET Core and MVC5",
+      "Description": null,
+      "FromUrl": "<http://www.thereformedprogrammer.net/templates-for-building-react-front-ends-in-asp-net-core-and-mvc5/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Strongly Typed Configuration Settings in ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<https://weblog.west-wind.com/posts/2016/May/23/Strongly-Typed-Configuration-Settings-in-ASPNET-Core> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "10 Lessons from a Long Running DDD Project – Part 2",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2016/06/20/10-lessons-from-a-long-running-ddd-project-part-2/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Marten as Document Db",
+      "Description": null,
+      "FromUrl": "<http://jasperfx.github.io/marten/documentation/documents/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Marten as Event Store",
+      "Description": null,
+      "FromUrl": "<http://jasperfx.github.io/marten/documentation/events/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Pushing Data: Integrating with ASP.NET SignalR Hubs",
+      "Description": null,
+      "FromUrl": "<http://henriquat.re/server-integration/signalr/integrateWithSignalRHubs.html> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Build a Real-time SignalR Dashboard with AngularJS",
+      "Description": null,
+      "FromUrl": "<https://www.sitepoint.com/build-real-time-signalr-dashboard-angularjs/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Bootstrap",
+      "Description": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web",
+      "FromUrl": "<http://getbootstrap.com/> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Announcing .NET Core 1.0",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Announcing ASP.NET Core 1.0",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Forgotten (but Awesome) Windows Command Prompt Features",
+      "Description": null,
+      "FromUrl": "<http://www.hanselman.com/blog/ForgottenButAwesomeWindowsCommandPromptFeatures.aspx> ",
+      "Tag": null
+    }
+  ]
+}

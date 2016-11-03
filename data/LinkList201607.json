@@ -1,0 +1,94 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2016-11-03T09:23:07.7281737+08:00",
+    "Heading": "Month of 2016-07",
+    "GenerateFilename": "c:\\temp\\LinkList0000.md",
+    "SourceFilename": "c:\\temp\\LinkList0000.json"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "First Steps: Exploring .NET Core and ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<https://weblog.west-wind.com/posts/2016/Jun/29/First-Steps-Exploring-NET-Core-and-ASPNET-Core> ",
+      "Tag": "star"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "HATEOAS",
+      "Description": "Hypermedia as the Engine of Application State",
+      "FromUrl": "<https://en.wikipedia.org/wiki/HATEOAS> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "The value proposition of Hypermedia",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2014/09/23/the-value-proposition-of-hypermedia/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "End-to-End Hypermedia: Choosing a Media Type",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2015/05/22/end-to-end-hypermedia-choosing-a-media-type/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "End-to-End Hypermedia: Making the Leap",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2015/05/19/end-to-end-hypermedia-making-the-leap/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "End-to-End Hypermedia: Building the Server",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2015/06/03/end-to-end-hypermedia-building-the-server/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "End-to-End Hypermedia: Building the Client",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2015/06/18/end-to-end-hypermedia-building-the-client/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "End-to-end Hypermedia: Building a React Client",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2015/07/01/end-to-end-hypermedia-building-a-react-client/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "CQRS with MediatR and AutoMapper",
+      "Description": null,
+      "FromUrl": "<https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/> ",
+      "Tag": "readit"
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Simple JavaScript Notifications with toastr",
+      "Description": null,
+      "FromUrl": "<https://johnpapa.net/toastr100beta/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "INJECTING CONFIGURATIONS IN RAZOR VIEWS IN ASP.NET CORE",
+      "Description": null,
+      "FromUrl": "<https://damienbod.com/2016/07/13/injecting-configurations-in-razor-views-in-asp-net-core/> ",
+      "Tag": null
+    },
+    {
+      "LinkPostedDate": "2016-04-01T08:55:00",
+      "Title": "Babel is a JavaScript compiler",
+      "Description": null,
+      "FromUrl": "<https://babeljs.io/> ",
+      "Tag": null
+    }
+  ]
+}
