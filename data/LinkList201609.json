@@ -2,7 +2,6 @@
   "DocumentInfo": {
     "PostedDate": "2016-11-03T09:38:42.0778102+08:00",
     "Heading": "Month of 2016-09",
-    "GenerateFilename": "c:\\temp\\LinkList0000.md",
     "SourceFilename": "c:\\temp\\LinkList0000.json"
   },
   "LinkList": [
@@ -10,161 +9,161 @@
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "HOW TO EASILY EXTEND YOUR APP USING MEDIATR NOTIFICATIONS",
       "Description": null,
-      "FromUrl": "<https://jonhilton.net/2016/08/31/how-to-easily-extend-your-app-using-mediatr-notifications/> ",
+      "FromUrl": "https://jonhilton.net/2016/08/31/how-to-easily-extend-your-app-using-mediatr-notifications/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Recursion and Pattern Matching",
       "Description": null,
-      "FromUrl": "<http://www.jason-down.com/2016/09/02/recursion-and-pattern-matching/> ",
+      "FromUrl": "http://www.jason-down.com/2016/09/02/recursion-and-pattern-matching/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "A Complete Guide to Flexbox",
       "Description": null,
-      "FromUrl": "<https://css-tricks.com/snippets/css/a-guide-to-flexbox/> ",
+      "FromUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Bridge.net",
       "Description": "Write C#. Run JavaScript. Open Source C# to JavaScript Compiler and Frameworks.",
-      "FromUrl": "<http://bridge.net/> ",
+      "FromUrl": "http://bridge.net/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Performance tuning a Bridge.NET / React app",
       "Description": null,
-      "FromUrl": "<http://www.productiverage.com/performance-tuning-a-bridgenet-react-app> ",
+      "FromUrl": "http://www.productiverage.com/performance-tuning-a-bridgenet-react-app",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Combining HttpPost and ValidateAntiForgeryToken",
       "Description": "The comment posts are most interesting",
-      "FromUrl": "<http://odetocode.com/blogs/scott/archive/2016/09/08/combining-httppost-and-validateantiforgerytoken.aspx> ",
+      "FromUrl": "http://odetocode.com/blogs/scott/archive/2016/09/08/combining-httppost-and-validateantiforgerytoken.aspx",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "The Basics of Web Application Security",
       "Description": null,
-      "FromUrl": "<http://martinfowler.com/articles/web-security-basics.html#ProtectUserSessions> ",
+      "FromUrl": "http://martinfowler.com/articles/web-security-basics.html#ProtectUserSessions",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Routing React Apps: The Complete Guide",
       "Description": null,
-      "FromUrl": "<https://scotch.io/tutorials/routing-react-apps-the-complete-guide> ",
+      "FromUrl": "https://scotch.io/tutorials/routing-react-apps-the-complete-guide",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Save Time and Keystrokes with Emmet in Visual Studio Code",
       "Description": null,
-      "FromUrl": "<https://devhammer.net/blog/save-time-and-keystrokes-with-emmet-in-visual-studio-code/> ",
+      "FromUrl": "https://devhammer.net/blog/save-time-and-keystrokes-with-emmet-in-visual-studio-code/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "A look behind the JWT bearer authentication middleware in ASP.NET Core",
       "Description": null,
-      "FromUrl": "<http://andrewlock.net/a-look-behind-the-jwt-bearer-authentication-middleware-in-asp-net-core/> ",
+      "FromUrl": "http://andrewlock.net/a-look-behind-the-jwt-bearer-authentication-middleware-in-asp-net-core/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Creating a GPS configuration provider for ASP.NET Core 1.0",
       "Description": null,
-      "FromUrl": "<https://www.billboga.com/posts/creating-a-gps-configuration-provider-for-aspnet-core-10> ",
+      "FromUrl": "https://www.billboga.com/posts/creating-a-gps-configuration-provider-for-aspnet-core-10",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "TROUBLESHOOT YOUR ASP.NET CORE WEB APP USING LOGGING",
       "Description": null,
-      "FromUrl": "<https://jonhilton.net/2016/09/14/troubleshoot-your-asp-net-core-web-app-using-logging/> ",
+      "FromUrl": "https://jonhilton.net/2016/09/14/troubleshoot-your-asp-net-core-web-app-using-logging/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Real-World CQRS/ES with ASP.NET and Redis Part 1 - Overview",
       "Description": null,
-      "FromUrl": "<https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/> ",
+      "FromUrl": "https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "IMPLEMENTING UNDO, REDO IN ASP.NET CORE",
       "Description": null,
-      "FromUrl": "<https://damienbod.com/2016/08/29/implementing-undo-redo-in-asp-net-core/> ",
+      "FromUrl": "https://damienbod.com/2016/08/29/implementing-undo-redo-in-asp-net-core/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Neo4j: The World’s Leading Graph Database",
       "Description": null,
-      "FromUrl": "<https://neo4j.com/product/> ",
+      "FromUrl": "https://neo4j.com/product/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "How to use Shadow Properties with Entity Framework Core",
       "Description": null,
-      "FromUrl": "<http://www.talkingdotnet.com/use-shadow-properties-entity-framework-core/> ",
+      "FromUrl": "http://www.talkingdotnet.com/use-shadow-properties-entity-framework-core/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Three useful Babel presets",
       "Description": null,
-      "FromUrl": "<http://www.2ality.com/2016/09/three-useful-babel-presets.html> ",
+      "FromUrl": "http://www.2ality.com/2016/09/three-useful-babel-presets.html",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Speaking Tips: Tell A Story",
       "Description": null,
-      "FromUrl": "<http://blogs.tedneward.com/post/speaking-tips-tell-a-story/> ",
+      "FromUrl": "http://blogs.tedneward.com/post/speaking-tips-tell-a-story/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "‘Thought Leader’ gives talk that will inspire your thoughts",
       "Description": null,
-      "FromUrl": "<https://www.youtube.com/watch?v=_ZBKX-6Gz6A> ",
+      "FromUrl": "https://www.youtube.com/watch?v=_ZBKX-6Gz6A",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "ASP.NET CORE 1.0 WITH MYSQL AND ENTITY FRAMEWORK CORE",
       "Description": null,
-      "FromUrl": "<https://damienbod.com/2016/08/26/asp-net-core-1-0-with-mysql-and-entity-framework-core/> ",
+      "FromUrl": "https://damienbod.com/2016/08/26/asp-net-core-1-0-with-mysql-and-entity-framework-core/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Evolutionary Database Design",
       "Description": null,
-      "FromUrl": "<http://martinfowler.com/articles/evodb.html> ",
+      "FromUrl": "http://martinfowler.com/articles/evodb.html",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Dependency Injection in Attributes: don’t do it!",
       "Description": null,
-      "FromUrl": "<https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=98> ",
+      "FromUrl": "https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=98",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Passive Attributes",
       "Description": null,
-      "FromUrl": "<http://blog.ploeh.dk/2014/06/13/passive-attributes/> ",
+      "FromUrl": "http://blog.ploeh.dk/2014/06/13/passive-attributes/",
       "Tag": "star"
     }
   ]

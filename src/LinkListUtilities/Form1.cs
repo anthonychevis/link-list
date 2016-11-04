@@ -83,9 +83,13 @@ namespace Softtouch.LinkListUtilities
 
             while ((line = reader.ReadLine()) != null) {
 
+                if (string.IsNullOrWhiteSpace(line)) continue;
+
                 if (line.StartsWith(FROM_LABEL, StringComparison.InvariantCultureIgnoreCase)) {
                     state = ReadState.from;
                 }
+
+                
 
                 switch (state) {
                     case ReadState.title:
@@ -107,7 +111,7 @@ namespace Softtouch.LinkListUtilities
 
                     case ReadState.from:
                         record.FromUrl = line.Substring(FROM_LABEL.Length - 1);
-                        record.FromUrl.Replace("<", "").Replace(" ", "");
+                        record.FromUrl.Replace("<", "").Replace(">", "").Replace(" ", "");
                         state = ReadState.title;
                         outputList.Add(record);
                         record = null;
@@ -209,13 +213,33 @@ namespace Softtouch.LinkListUtilities
                 writer.WriteLine($"# {document.DocumentInfo.Heading}");
 
                 foreach (LinkItem item in document.LinkList) {
-                    writer.WriteLine($"### {(!string.IsNullOrEmpty(item.Tag) ? "![star](./tags/" + item.Tag + ".png)" : "")} {item.Title}");
-                    writer.WriteLine($"{item.Description}");
-                    writer.WriteLine($"\r\n{item.FromUrl}");
+                    writer.WriteLine($"__{(!string.IsNullOrEmpty(item.Tag) ? "![star](./tags/" + item.Tag + ".png)" : "")}{item.Title?.Trim()}__  ");
+                    writer.WriteLine($"{item.Description?.Trim()+"  "}");
+                    writer.WriteLine($"<{item.FromUrl}>  ");
+                    writer.WriteLine("***");
                 }
             }
         }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            var sourcefiles = new DirectoryInfo(Path.GetDirectoryName(textBox2.Text)).GetFiles(Path.GetFileName(textBox2.Text));
+
+            foreach (var sourceFileInfo in sourcefiles) {
+
+                Document document = JsonConvert.DeserializeObject<Document>(File.ReadAllText(sourceFileInfo.FullName));
+
+                foreach (var linkItem in document.LinkList) {
+                    linkItem.FromUrl = linkItem.FromUrl.Replace("<", "").Replace(">", "").Replace(" ", "");
+                }
+
+                string jsonDocument = JsonConvert.SerializeObject(document, Formatting.Indented);
+                File.WriteAllText(sourceFileInfo.FullName, jsonDocument);
+
+            }
+
+
+        }
     }
 }
 

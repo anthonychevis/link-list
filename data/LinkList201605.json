@@ -2,7 +2,6 @@
   "DocumentInfo": {
     "PostedDate": "2016-11-03T09:02:42.6656343+08:00",
     "Heading": "Month of 2016-05",
-    "GenerateFilename": "c:\\temp\\LinkList0000.md",
     "SourceFilename": "c:\\temp\\LinkList0000.json"
   },
   "LinkList": [
@@ -10,140 +9,140 @@
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Build a Microservice with Service Fabric on Windows Server",
       "Description": "Tutorial",
-      "FromUrl": "<http://www.codeproject.com/Articles/1094778/Build-a-Microservice-with-Service-Fabric-on-Window> ",
+      "FromUrl": "http://www.codeproject.com/Articles/1094778/Build-a-Microservice-with-Service-Fabric-on-Window",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Interpolated Strings (C# and Visual Basic Reference)",
       "Description": "\tConsole.WriteLine($\"Name = {name}, hours = {hours:hh}\")\t$\"{person.Name, 20} is {person.Age:D3} year {(p.Age == 1 ? \"\" : \"s\")} old.\" ",
-      "FromUrl": "<https://msdn.microsoft.com/en-us/library/dn961160.aspx> ",
+      "FromUrl": "https://msdn.microsoft.com/en-us/library/dn961160.aspx",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Handling Concurrency with the Entity Framework 6",
       "Description": "About pessimistic (locking) and optimistic concurrency in the database and how to specify in EF6.",
-      "FromUrl": "<http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/handling-concurrency-with-the-entity-framework-in-an-asp-net-mvc-application> ",
+      "FromUrl": "http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/handling-concurrency-with-the-entity-framework-in-an-asp-net-mvc-application",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "CQRS Messaging Tools",
       "Description": "This tools (if it works) uses Rosalyn to peek at your messaging application and output a plain text DSL showing message interaction.",
-      "FromUrl": "<http://jelster.github.io/CqrsMessagingTools/> ",
+      "FromUrl": "http://jelster.github.io/CqrsMessagingTools/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "NATS Introduction",
       "Description": "NATS is an open-source, cloud-native messaging system. In addition to functioning as the “nervous system” for the Apcera platform, companies like Baidu, Siemens, VMware, HTC, and Ericsson rely on NATS for its highly performant and resilient messaging capabilities.",
-      "FromUrl": "<http://nats.io/documentation/> ",
+      "FromUrl": "http://nats.io/documentation/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Building accessible websites just got a lot easier",
       "Description": "Web Accessibility Checker! This Visual Studio extension utilizes Browser Link for ASP.NET to run standards based accessibility checks on the live running website. ",
-      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2016/05/02/building-accessible-websites-just-got-a-lot-easier/> ",
+      "FromUrl": "https://blogs.msdn.microsoft.com/webdev/2016/05/02/building-accessible-websites-just-got-a-lot-easier/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "ANGULAR 2 LOCALIZATION WITH AN ASP.NET CORE MVC SERVICE",
       "Description": "how localization can be implemented in Angular 2 for static UI translations and also for localized data requested from a MVC service",
-      "FromUrl": "<https://damienbod.com/2016/04/29/angular-2-localization-with-an-asp-net-core-mvc-service/> ",
+      "FromUrl": "https://damienbod.com/2016/04/29/angular-2-localization-with-an-asp-net-core-mvc-service/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Deploying ASP.NET Core with Docker Swarm to Azure Container Service",
       "Description": "connecting to an Azure Container Service Docker Swarm cluster and deploying a simple ASP.NET Core application using the Docker CLI",
-      "FromUrl": "<http://anthonychu.ca/post/aspnet-core-azure-container-service/> ",
+      "FromUrl": "http://anthonychu.ca/post/aspnet-core-azure-container-service/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Feature Folder Structure in ASP.NET Core",
       "Description": "Organizing your project by feature",
-      "FromUrl": "<https://scottsauber.com/2016/04/25/feature-folder-structure-in-asp-net-core/> ",
+      "FromUrl": "https://scottsauber.com/2016/04/25/feature-folder-structure-in-asp-net-core/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Cross-platform Single Page Applications with ASP.NET Core 1.0, Angular 2 & TypeScript",
       "Description": "Really, really long walkthrough",
-      "FromUrl": "<https://chsakell.com/2016/01/01/cross-platform-single-page-applications-with-asp-net-5-angular-2-typescript/> ",
+      "FromUrl": "https://chsakell.com/2016/01/01/cross-platform-single-page-applications-with-asp-net-5-angular-2-typescript/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Agile and the Theory of Constraints – Part 1",
       "Description": "Really interesting - makes an analogy between \"improving factory efficiency\" to \"software performance\"",
-      "FromUrl": "<https://blogs.msdn.microsoft.com/ericgu/2016/04/25/agile-and-the-theory-of-constraints-part-1/> ",
+      "FromUrl": "https://blogs.msdn.microsoft.com/ericgu/2016/04/25/agile-and-the-theory-of-constraints-part-1/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Building strongly typed application configuration utility with Roslyn",
       "Description": "Instead of a .NET configuration file, why not write in out in C#?",
-      "FromUrl": "<http://www.strathweb.com/2016/04/building-strongly-typed-application-configuration-utility-with-roslyn/> ",
+      "FromUrl": "http://www.strathweb.com/2016/04/building-strongly-typed-application-configuration-utility-with-roslyn/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "ASP.NET Web API: Passing Multiple Objects as an Input Parameters to Action Method",
       "Description": null,
-      "FromUrl": "<http://www.dotnetcurry.com/aspnet/1278/aspnet-webapi-pass-multiple-parameters-action-method> ",
+      "FromUrl": "http://www.dotnetcurry.com/aspnet/1278/aspnet-webapi-pass-multiple-parameters-action-method",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Differences Between Scrum and Extreme Programming",
       "Description": null,
-      "FromUrl": "<http://www.mountaingoatsoftware.com/blog/differences-between-scrum-and-extreme-programming> ",
+      "FromUrl": "http://www.mountaingoatsoftware.com/blog/differences-between-scrum-and-extreme-programming",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "ServiceStack, a journey into the madness of microservices",
       "Description": "A 17 part series on implementation details for Microservices",
-      "FromUrl": "<http://www.wwwlicious.com/2016/05/03/servicestack-microservices-1/> ",
+      "FromUrl": "http://www.wwwlicious.com/2016/05/03/servicestack-microservices-1/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "ServiceStack",
       "Description": null,
-      "FromUrl": "<https://servicestack.net/> ",
+      "FromUrl": "https://servicestack.net/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "ServiceStack.EventStore",
       "Description": null,
-      "FromUrl": "<https://github.com/MacLeanElectrical/servicestack-eventstore> ",
+      "FromUrl": "https://github.com/MacLeanElectrical/servicestack-eventstore",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Event Store",
       "Description": null,
-      "FromUrl": "<https://geteventstore.com/> ",
+      "FromUrl": "https://geteventstore.com/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Angular 2, React, and Knockout apps on ASP.NET Core",
       "Description": "Right now we’re building templates for Angular 2, Knockout, React, and React with Redux. They all give you a Bootstrap-based dashboard-style site with client-side navigation, and each demonstrates a pattern for fetching data and implementing UI components with your chosen framework/architecture.",
-      "FromUrl": "<http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/> ",
+      "FromUrl": "http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "INTRODUCTION TO CONSUL",
       "Description": "a tool for discovering and configuring services in your infrastructure.",
-      "FromUrl": "<https://www.consul.io/intro/index.html> ",
+      "FromUrl": "https://www.consul.io/intro/index.html",
       "Tag": null
     }
   ]

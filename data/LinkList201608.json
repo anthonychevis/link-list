@@ -2,7 +2,6 @@
   "DocumentInfo": {
     "PostedDate": "2016-11-03T09:31:37.3492272+08:00",
     "Heading": "Month of 2016-08",
-    "GenerateFilename": "c:\\temp\\LinkList0000.md",
     "SourceFilename": "c:\\temp\\LinkList0000.json"
   },
   "LinkList": [
@@ -10,147 +9,147 @@
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Aurelia 1.0 is Here!!!",
       "Description": null,
-      "FromUrl": "<http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/?utm_source=DNK-159757&utm_medium=DNK-159757&utm_content=DNK-159757&utm_campaign=DNK-159757> ",
+      "FromUrl": "http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/?utm_source=DNK-159757&utm_medium=DNK-159757&utm_content=DNK-159757&utm_campaign=DNK-159757",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Exploring a minimal WebAPI with .NET Core and NancyFX",
       "Description": null,
-      "FromUrl": "<http://www.hanselman.com/blog/ExploringAMinimalWebAPIWithNETCoreAndNancyFX.aspx> ",
+      "FromUrl": "http://www.hanselman.com/blog/ExploringAMinimalWebAPIWithNETCoreAndNancyFX.aspx",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "COMPILE YOUR CHANGES ON THE FLY WITH .NET CORE WATCH",
       "Description": null,
-      "FromUrl": "<https://jonhilton.net/2016/08/04/compile-your-changes-on-the-fly-with-net-core/> ",
+      "FromUrl": "https://jonhilton.net/2016/08/04/compile-your-changes-on-the-fly-with-net-core/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Collecting Windows 10 \"Anniversary Edition\" Keyboard Shortcuts",
       "Description": null,
-      "FromUrl": "<http://www.hanselman.com/blog/CollectingWindows10AnniversaryEditionKeyboardShortcuts.aspx> ",
+      "FromUrl": "http://www.hanselman.com/blog/CollectingWindows10AnniversaryEditionKeyboardShortcuts.aspx",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Understanding Pusher",
       "Description": "Pusher is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.",
-      "FromUrl": "<https://pusher.com/docs> ",
+      "FromUrl": "https://pusher.com/docs",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "How to Use ` with Visual Studio and ASP.NET Web API",
       "Description": null,
-      "FromUrl": "<http://www.codeproject.com/Articles/1117287/How-to-Use-React-with-Visual-Studio-and-ASP-NET-Web%20API> ",
+      "FromUrl": "http://www.codeproject.com/Articles/1117287/How-to-Use-React-with-Visual-Studio-and-ASP-NET-Web%20API",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Retrieving Performance Counter from a remote PC using C#",
       "Description": null,
-      "FromUrl": "<http://www.productiverage.com/retrieving-performance-counter-from-a-remote-pc-using-c-sharp> ",
+      "FromUrl": "http://www.productiverage.com/retrieving-performance-counter-from-a-remote-pc-using-c-sharp",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Tutorial: Using Entity Framework Core as an In-Memory Database for ASP.NET Core",
       "Description": null,
-      "FromUrl": "<https://stormpath.com/blog/tutorial-entity-framework-core-in-memory-database-asp-net-core> ",
+      "FromUrl": "https://stormpath.com/blog/tutorial-entity-framework-core-in-memory-database-asp-net-core",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Visual Studio's most useful (and underused) tips",
       "Description": null,
-      "FromUrl": "<http://www.hanselman.com/blog/VisualStudiosMostUsefulAndUnderusedTips.aspx> ",
+      "FromUrl": "http://www.hanselman.com/blog/VisualStudiosMostUsefulAndUnderusedTips.aspx",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Why I’m leaving React behind",
       "Description": null,
-      "FromUrl": "<https://shellmonger.com/2016/08/14/why-im-leaving-react-behind/> ",
+      "FromUrl": "https://shellmonger.com/2016/08/14/why-im-leaving-react-behind/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Follow-up to Why I’m Leaving React Behind",
       "Description": null,
-      "FromUrl": "<https://shellmonger.com/2016/08/18/follow-up-to-why-im-leaving-react-behind/> ",
+      "FromUrl": "https://shellmonger.com/2016/08/18/follow-up-to-why-im-leaving-react-behind/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "ASP.NET CORE LOGGING WITH NLOG AND ELASTICSEARCH",
       "Description": "Why? Because then you can search your debugging logs.",
-      "FromUrl": "<https://damienbod.com/2016/08/20/asp-net-core-logging-with-nlog-and-elasticsearch/> ",
+      "FromUrl": "https://damienbod.com/2016/08/20/asp-net-core-logging-with-nlog-and-elasticsearch/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Refactoring Production Code With Experiments and Scientist.NET",
       "Description": null,
-      "FromUrl": "<http://dontcodetired.com/blog/post/Refactoring-Production-Code-With-Experiments-and-ScientistNET> ",
+      "FromUrl": "http://dontcodetired.com/blog/post/Refactoring-Production-Code-With-Experiments-and-ScientistNET",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "What’s New in C# 7.0",
       "Description": null,
-      "FromUrl": "<https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/> ",
+      "FromUrl": "https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Evolution of Microsoft Bot Framework",
       "Description": null,
-      "FromUrl": "<http://www.codeproject.com/Articles/1120056/Evolution-of-Microsoft-Bot-Framework> ",
+      "FromUrl": "http://www.codeproject.com/Articles/1120056/Evolution-of-Microsoft-Bot-Framework",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Build cross platform desktop apps",
       "Description": "with JavaScript, HTML, and CSS",
-      "FromUrl": "<http://electron.atom.io/> ",
+      "FromUrl": "http://electron.atom.io/",
       "Tag": "star"
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Two tools for quick and easy web application load testing during development",
       "Description": null,
-      "FromUrl": "<http://www.hanselman.com/blog/TwoToolsForQuickAndEasyWebApplicationLoadTestingDuringDevelopment.aspx> ",
+      "FromUrl": "http://www.hanselman.com/blog/TwoToolsForQuickAndEasyWebApplicationLoadTestingDuringDevelopment.aspx",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Visual Studio 2015 - Fixing \"Dependencies npm not installed\" from fsevents with node on Windows",
       "Description": null,
-      "FromUrl": "<http://www.hanselman.com/blog/VisualStudio2015FixingDependenciesNpmNotInstalledFromFseventsWithNodeOnWindows.aspx> ",
+      "FromUrl": "http://www.hanselman.com/blog/VisualStudio2015FixingDependenciesNpmNotInstalledFromFseventsWithNodeOnWindows.aspx",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Angular 2, React, and Knockout apps on ASP.NET Core",
       "Description": "",
-      "FromUrl": "<http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/> ",
+      "FromUrl": "http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "Full-Stack Redux Tutorial",
       "Description": "A Comprehensive Guide to Test-First Development with Redux, React, and Immutable",
-      "FromUrl": "<http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html> ",
+      "FromUrl": "http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html",
       "Tag": null
     },
     {
       "LinkPostedDate": "2016-04-01T08:55:00",
       "Title": "SurviveJS - React. From apprentice to master.",
       "Description": "Free book version:",
-      "FromUrl": "<http://survivejs.com/react/introduction/> ",
+      "FromUrl": "http://survivejs.com/react/introduction/",
       "Tag": null
     }
   ]
