@@ -35,11 +35,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textJsonDirectoryAndWildcard = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textMarkdownDirectory = new System.Windows.Forms.TextBox();
             this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -73,11 +74,11 @@
             this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox1.Location = new System.Drawing.Point(38, 287);
+            this.textBox1.Location = new System.Drawing.Point(38, 434);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(907, 468);
+            this.textBox1.Size = new System.Drawing.Size(907, 321);
             this.textBox1.TabIndex = 3;
             // 
             // button2
@@ -101,7 +102,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(149, 226);
+            this.button3.Location = new System.Drawing.Point(157, 293);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(141, 38);
             this.button3.TabIndex = 6;
@@ -112,23 +113,23 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(327, 239);
+            this.label3.Location = new System.Drawing.Point(335, 306);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(35, 13);
             this.label3.TabIndex = 7;
             this.label3.Text = "label3";
             // 
-            // textBox2
+            // textJsonDirectoryAndWildcard
             // 
-            this.textBox2.Location = new System.Drawing.Point(149, 157);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(647, 20);
-            this.textBox2.TabIndex = 8;
+            this.textJsonDirectoryAndWildcard.Location = new System.Drawing.Point(157, 224);
+            this.textJsonDirectoryAndWildcard.Name = "textJsonDirectoryAndWildcard";
+            this.textJsonDirectoryAndWildcard.Size = new System.Drawing.Size(647, 20);
+            this.textJsonDirectoryAndWildcard.TabIndex = 8;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(38, 160);
+            this.label4.Location = new System.Drawing.Point(46, 227);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(86, 13);
             this.label4.TabIndex = 9;
@@ -137,39 +138,52 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(38, 190);
+            this.label5.Location = new System.Drawing.Point(46, 257);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(84, 13);
             this.label5.TabIndex = 10;
             this.label5.Text = "Target directory:";
             // 
-            // textBox3
+            // textMarkdownDirectory
             // 
-            this.textBox3.Location = new System.Drawing.Point(149, 187);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(647, 20);
-            this.textBox3.TabIndex = 11;
+            this.textMarkdownDirectory.Location = new System.Drawing.Point(157, 254);
+            this.textMarkdownDirectory.Name = "textMarkdownDirectory";
+            this.textMarkdownDirectory.Size = new System.Drawing.Size(647, 20);
+            this.textMarkdownDirectory.TabIndex = 11;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(534, 229);
+            this.button4.Location = new System.Drawing.Point(839, 308);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 12;
             this.button4.Text = "Clean JSON";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Visible = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(157, 337);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(156, 50);
+            this.button5.TabIndex = 13;
+            this.button5.Text = "Paste from clipboard and generate md automatically";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Visible = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(980, 796);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.textMarkdownDirectory);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textJsonDirectoryAndWildcard);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label2);
@@ -196,11 +210,12 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textJsonDirectoryAndWildcard;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textMarkdownDirectory;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
     }
 }
 

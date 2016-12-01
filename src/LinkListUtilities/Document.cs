@@ -13,18 +13,18 @@ namespace Softtouch.LinkListUtilities
         public string Description { get; set; }
         public string FromUrl { get; set; }
         public string Tag { get; set; }
+        public string Author { get; set; }
     }
 
     public class DocumentInfo
     {
         public DateTime PostedDate { get; set; } = DateTime.Now;
         public string Heading { get; set; }
-        public string SourceFilename { get; set; }
     }
 
     public class Document
     {
-        public DocumentInfo DocumentInfo;
-        public List<LinkItem> LinkList;
+        public DocumentInfo DocumentInfo { get; set; } = new DocumentInfo();
+        public List<LinkItem> LinkList { get; set; } = new List<LinkItem>();
     }
 }

@@ -35,9 +35,9 @@ namespace Softtouch.LinkListUtilities
             label3.Text = "";
 
             DirectoryInfo rootDir = new DirectoryInfo(@"..\..\..\..\");
-            textBox2.Text = Path.Combine(rootDir.FullName, @"data\*.json");
-            textBox3.Text = rootDir.FullName;
-       }
+            textJsonDirectoryAndWildcard.Text = Path.Combine(rootDir.FullName, @"data\*.json");
+            textMarkdownDirectory.Text = rootDir.FullName;
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -64,7 +64,6 @@ namespace Softtouch.LinkListUtilities
             document.LinkList = linkList;
             document.DocumentInfo = new DocumentInfo() {
                 Heading = "Place heading here",
-                SourceFilename = filename,
                 PostedDate = DateTime.Now
             };
 
@@ -80,7 +79,7 @@ namespace Softtouch.LinkListUtilities
             ReadState state = ReadState.title;
             LinkItem record = new LinkItem();
             string line;
-
+            record = new LinkItem();
             while ((line = reader.ReadLine()) != null) {
 
                 if (string.IsNullOrWhiteSpace(line)) continue;
@@ -89,19 +88,24 @@ namespace Softtouch.LinkListUtilities
                     state = ReadState.from;
                 }
 
-                
+                var pair = ExtractAttribute(line);
 
+                switch (pair.Item2.Name.ToLower()) {
+                    case "tag":
+                        record.Tag = pair.Item2.Value;
+                        line = pair.Item1;
+                        break;
+                    case "author":
+                        record.Author = pair.Item2.Value;
+                        line = pair.Item1;
+                        break;
+                }
+                
                 switch (state) {
                     case ReadState.title:
                         if (line.Trim().Length == 0) break;
-                        record = new LinkItem();
                         record.LinkPostedDate = dateTimePicker1.Value;
-                        var compoundTitle = ExtractAttribute(line);
-
-                        record.Title = compoundTitle.Item1;
-                        if (compoundTitle.Item2.Name.Equals("tag", StringComparison.InvariantCultureIgnoreCase)) {
-                            record.Tag = compoundTitle.Item2.Value;
-                        }
+                        record.Title = line;
                         state = ReadState.description;
                         break;
 
@@ -114,7 +118,7 @@ namespace Softtouch.LinkListUtilities
                         record.FromUrl.Replace("<", "").Replace(">", "").Replace(" ", "");
                         state = ReadState.title;
                         outputList.Add(record);
-                        record = null;
+                        record = new LinkItem();
                         break;
                 }
             }
@@ -171,8 +175,8 @@ namespace Softtouch.LinkListUtilities
 
         private void button3_Click(object sender, EventArgs e)
         {
-            var sourcefiles = new DirectoryInfo(Path.GetDirectoryName(textBox2.Text)).GetFiles(Path.GetFileName(textBox2.Text));
-            DirectoryInfo targetDirectory = new DirectoryInfo(textBox3.Text);
+            var sourcefiles = new DirectoryInfo(Path.GetDirectoryName(textJsonDirectoryAndWildcard.Text)).GetFiles(Path.GetFileName(textJsonDirectoryAndWildcard.Text));
+            DirectoryInfo targetDirectory = new DirectoryInfo(textMarkdownDirectory.Text);
 
             BatchRenderDocumentAsMarkdown(sourcefiles, targetDirectory);
         }
@@ -197,8 +201,9 @@ namespace Softtouch.LinkListUtilities
                 Document document = JsonConvert.DeserializeObject<Document>(File.ReadAllText(sourceFileInfo.FullName));
 
                 RenderDocumentAsMarkdown(document, Path.Combine(outputDirectory.FullName, Path.GetFileNameWithoutExtension(sourceFileInfo.Name) + ".md"));
-
             }
+
+            textMarkdownDirectory.Text = "Finished processing " + jsonSourceFiles.Length + " file(s).";
         }
 
         private void RenderDocumentAsMarkdown(Document document, string generateMarkdownFilename)
@@ -214,7 +219,10 @@ namespace Softtouch.LinkListUtilities
 
                 foreach (LinkItem item in document.LinkList) {
                     writer.WriteLine($"__{(!string.IsNullOrEmpty(item.Tag) ? "![star](./tags/" + item.Tag + ".png)" : "")}{item.Title?.Trim()}__  ");
-                    writer.WriteLine($"{item.Description?.Trim()+"  "}");
+                    if (!string.IsNullOrEmpty(item.Author)) {
+                        writer.WriteLine("Author: " + item.Author);
+                    }
+                    writer.WriteLine($"{item.Description?.Trim() + "  "}");
                     writer.WriteLine($"<{item.FromUrl}>  ");
                     writer.WriteLine("***");
                 }
@@ -223,7 +231,7 @@ namespace Softtouch.LinkListUtilities
 
         private void button4_Click(object sender, EventArgs e)
         {
-            var sourcefiles = new DirectoryInfo(Path.GetDirectoryName(textBox2.Text)).GetFiles(Path.GetFileName(textBox2.Text));
+            var sourcefiles = new DirectoryInfo(Path.GetDirectoryName(textJsonDirectoryAndWildcard.Text)).GetFiles(Path.GetFileName(textJsonDirectoryAndWildcard.Text));
 
             foreach (var sourceFileInfo in sourcefiles) {
 
@@ -239,6 +247,64 @@ namespace Softtouch.LinkListUtilities
             }
 
 
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+            var pastedData = GetPastedUrlAndTextContext();
+            textBox1.Text = "URL: " + pastedData.Item1 + Environment.NewLine + "TEXT: " + pastedData.Item2;
+
+            AutoInsertToLinkList(pastedData.Item1, pastedData.Item2);
+        }
+
+        private void AutoInsertToLinkList(string url, string textContent)
+        {
+            DateTime postedDate = dateTimePicker1.Value;
+
+            string jsonDirectory = Path.GetDirectoryName(textJsonDirectoryAndWildcard.Text);
+            FileInfo targetJsonFile = new FileInfo(Path.Combine(jsonDirectory, $"LinkList{postedDate.Year:0000}{postedDate.Month:00}"));
+
+            Document document = null;
+            if (targetJsonFile.Exists) {
+                document = JsonConvert.DeserializeObject<Document>(File.ReadAllText(targetJsonFile.FullName));
+            } else {
+                document = new Document();
+                document.DocumentInfo.Heading = $"Month of {postedDate.Year:0000}-{postedDate.Month:00}";
+            }
+
+
+
+
+            
+
+            
+
+
+
+        }
+
+        private Tuple<string, string> GetPastedUrlAndTextContext()
+        {
+            string clipContent = Clipboard.GetText(TextDataFormat.Html);
+            string textContent = Clipboard.GetText();
+
+            string labelToFind = "SourceURL:";
+
+            //int pos = content.IndexOf(labelToFind);
+            //int afterLabel = pos + labelToFind.Length;
+
+            StringReader reader = new StringReader(clipContent);
+            string line;
+            string url = "";
+
+            while ((line = reader.ReadLine()) != null) {
+                if (line.StartsWith(labelToFind)) {
+                    url = line.Substring(labelToFind.Length);
+                }
+            }
+
+            return Tuple.Create(url, textContent);
         }
     }
 }
