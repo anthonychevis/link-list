@@ -8,7 +8,6 @@ a tool for discovering and configuring services in your infrastructure.
 <https://www.consul.io/intro/index.html>  
 ***
 __ServiceStack Plugin for Service Discovery using Consul.io__  
-  
 <https://github.com/MacLeanElectrical/servicestack-discovery-consul>  
 ***
 __Eureka at a glance__  
@@ -36,15 +35,12 @@ Factory pattern
 <http://blogs.tedneward.com/patterns/Builder-CSharp/>  
 ***
 __![star](./tags/star.png)How to Build a Search Page with Elasticsearch and .NET__  
-  
 <https://www.simple-talk.com/dotnet/development/how-to-build-a-search-page-with-elasticsearch-and-.net/>  
 ***
 __SQL LOCALIZATION NUGET PACKAGE FOR ASP.NET CORE__  
-  
 <https://damienbod.com/2016/05/26/released-sql-localization-nuget-package-for-asp-net-core-dotnet/>  
 ***
 __Logging in .NET with Exceptionless__  
-  
 <http://codeopinion.com/logging-net-exceptionless/>  
 ***
 __Adding CORS support for ASP.NET / WebAPI: The no hassle way__  
@@ -68,15 +64,12 @@ __![star](./tags/star.png)Getting Started with Redux__
 <https://egghead.io/courses/getting-started-with-redux>  
 ***
 __Redux__  
-  
 <http://redux.js.org/>  
 ***
 __Does Redux have a built-in way to undo actions?__  
-  
 <http://stackoverflow.com/questions/32526211/does-redux-have-a-built-in-way-to-undo-actions>  
 ***
 __Running .NET Core on Docker__  
-  
 <https://medium.com/trafi-tech-beat/running-net-core-on-docker-c438889eb5a#.wzxci41o5>  
 ***
 __ASP.NET Core 1.0 Schedule and Roadmap__  
@@ -84,11 +77,9 @@ Release set on June 27
 <https://github.com/aspnet/Home/wiki/Roadmap>  
 ***
 __![star](./tags/star.png)CQRS and REST: the perfect match__  
-  
 <https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/>  
 ***
 __Angular Directives Mapped to React__  
-  
 <https://daveceddia.com/angular-directives-mapped-to-react/>  
 ***
 __![star](./tags/star.png)10 Lessons from a Long Running DDD Project – Part 1__  
@@ -96,51 +87,39 @@ Jimmy Bogard kicks off what promises to be an interesting series looking at some
 <https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/>  
 ***
 __Announcing WCF Connected Service for .NET Core RC2 and ASP.NET Core RC2__  
-  
 <https://blogs.msdn.microsoft.com/webdev/2016/05/25/announcing-wcf-connected-service-for-net-core-rc2-and-asp-net-core-rc2/>  
 ***
 __![star](./tags/star.png)ASP.NET Core: No more worries about checking in secrets__  
-  
 <http://www.jerriepelser.com/blog/aspnet-core-no-more-worries-about-checking-in-secrets>  
 ***
 __ASP.NET Core Distributed Cache Tag Helper__  
-  
 <http://www.davepaquette.com/archive/2016/05/22/ASP-NET-Core-Distributed-Cache-Tag-Helper.aspx>  
 ***
 __MSBuild Structured Log: record and visualize your builds__  
-  
 <http://www.hanselman.com/blog/MSBuildStructuredLogRecordAndVisualizeYourBuilds.aspx>  
 ***
 __![star](./tags/star.png)A deep dive into the ASP.NET Core CORS library__  
-  
 <http://andrewlock.net/a-deep-dive-in-to-the-asp-net-core-cors-library/>  
 ***
 __Templates for building React.js front-ends in ASP.NET Core and MVC5__  
-  
 <http://www.thereformedprogrammer.net/templates-for-building-react-front-ends-in-asp-net-core-and-mvc5/>  
 ***
 __Strongly Typed Configuration Settings in ASP.NET Core__  
-  
 <https://weblog.west-wind.com/posts/2016/May/23/Strongly-Typed-Configuration-Settings-in-ASPNET-Core>  
 ***
 __![star](./tags/star.png)10 Lessons from a Long Running DDD Project – Part 2__  
-  
 <https://lostechies.com/jimmybogard/2016/06/20/10-lessons-from-a-long-running-ddd-project-part-2/>  
 ***
 __![star](./tags/star.png)Marten as Document Db__  
-  
 <http://jasperfx.github.io/marten/documentation/documents/>  
 ***
 __![star](./tags/star.png)Marten as Event Store__  
-  
 <http://jasperfx.github.io/marten/documentation/events/>  
 ***
 __Pushing Data: Integrating with ASP.NET SignalR Hubs__  
-  
 <http://henriquat.re/server-integration/signalr/integrateWithSignalRHubs.html>  
 ***
 __Build a Real-time SignalR Dashboard with AngularJS__  
-  
 <https://www.sitepoint.com/build-real-time-signalr-dashboard-angularjs/>  
 ***
 __![star](./tags/star.png)Bootstrap__  
@@ -148,14 +127,11 @@ Bootstrap is the most popular HTML, CSS, and JS framework for developing respons
 <http://getbootstrap.com/>  
 ***
 __Announcing .NET Core 1.0__  
-  
 <https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0/>  
 ***
 __Announcing ASP.NET Core 1.0__  
-  
 <https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/>  
 ***
 __Forgotten (but Awesome) Windows Command Prompt Features__  
-  
 <http://www.hanselman.com/blog/ForgottenButAwesomeWindowsCommandPromptFeatures.aspx>  
 ***

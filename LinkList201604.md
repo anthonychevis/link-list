@@ -16,15 +16,12 @@ The development build, not the build server, should contain all logic to create 
 <https://lostechies.com/derekgreer/2016/02/28/separation-of-concerns-application-builds-continuous-integration/>  
 ***
 __Using Gulp to Build and Deploy .NET Apps on Windows November, 2014__  
-  
 <http://www.mikeobrien.net/blog/using-gulp-to-build-and-deploy-dotnet-apps-on-windows/>  
 ***
 __![star](./tags/star.png)Stack Overflow: The Architecture - 2016 Edition__  
-  
 <http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/>  
 ***
 __Stack Overflow: The Hardware - 2016 Edition__  
-  
 <http://nickcraver.com/blog/2016/03/29/stack-overflow-the-hardware-2016-edition/>  
 ***
 __Trust in UX: UXTesting's collaborative solution for better UX design__  
@@ -36,7 +33,6 @@ Has anyone used this? Looks totally cool.
 <https://blogs.msdn.microsoft.com/bharry/2016/03/28/introducing-application-analytics/>  
 ***
 __ReproducibleBuild__  
-  
 <http://martinfowler.com/bliki/ReproducibleBuild.html>  
 ***
 __![star](./tags/star.png)It's Not Just Standing Up: Patterns for Daily Standup Meetings__  
@@ -52,7 +48,6 @@ An older post about Microsoft sucking in Xamarin.
 <http://blogs.tedneward.com/post/xamarin-next-steps/>  
 ***
 __Web Extension Pack for Visual Studio 2015__  
-  
 <https://blogs.msdn.microsoft.com/webdev/2016/03/09/web-extension-pack-for-visual-studio-2015/>  
 ***
 __Software Lessons from Property Brothers__  
@@ -60,11 +55,9 @@ You can skip this one. But gotta love Jimmy.
 <https://lostechies.com/jimmybogard/2016/03/14/software-lessons-from-property-brothers/>  
 ***
 __CI with TeamCity and Docker – Part 1__  
-  
 <https://lostechies.com/gabrielschenker/2016/03/22/ci-with-teamcity-and-docker/>  
 ***
 __Deploying Azure web applications with FAKE__  
-  
 <https://cockneycoder.wordpress.com/2016/04/05/deploying-web-applications-azure-with-fake/>  
 ***
 __![star](./tags/star.png)Edument CQRS and Intentful Testing Starter Kit__  
@@ -120,14 +113,11 @@ Thanks Wilson!
 <https://msdn.microsoft.com/en-us/magazine/dn574804.aspx>  
 ***
 __Why a microservices approach to building applications?__  
-  
 <https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview-microservices/>  
 ***
 __Service Fabric programming model overview__  
-  
 <https://azure.microsoft.com/en-us/documentation/articles/service-fabric-choose-framework/>  
 ***
 __Service Fabric programming model overview__  
-  
 <https://azure.microsoft.com/en-us/documentation/articles/service-fabric-choose-framework/>  
 ***

@@ -220,9 +220,11 @@ namespace Softtouch.LinkListUtilities
                 foreach (LinkItem item in document.LinkList) {
                     writer.WriteLine($"__{(!string.IsNullOrEmpty(item.Tag) ? "![star](./tags/" + item.Tag + ".png)" : "")}{item.Title?.Trim()}__  ");
                     if (!string.IsNullOrEmpty(item.Author)) {
-                        writer.WriteLine("Author: " + item.Author);
+                        writer.WriteLine($"Author: {item.Author}  ");
                     }
-                    writer.WriteLine($"{item.Description?.Trim() + "  "}");
+                    if (!string.IsNullOrEmpty(item.Description)) {
+                        writer.WriteLine($"{item.Description?.Trim() + "  "}");
+                    }
                     writer.WriteLine($"<{item.FromUrl}>  ");
                     writer.WriteLine("***");
                 }

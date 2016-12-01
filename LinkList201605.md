@@ -48,11 +48,9 @@ Instead of a .NET configuration file, why not write in out in C#?
 <http://www.strathweb.com/2016/04/building-strongly-typed-application-configuration-utility-with-roslyn/>  
 ***
 __ASP.NET Web API: Passing Multiple Objects as an Input Parameters to Action Method__  
-  
 <http://www.dotnetcurry.com/aspnet/1278/aspnet-webapi-pass-multiple-parameters-action-method>  
 ***
 __Differences Between Scrum and Extreme Programming__  
-  
 <http://www.mountaingoatsoftware.com/blog/differences-between-scrum-and-extreme-programming>  
 ***
 __![star](./tags/star.png)ServiceStack, a journey into the madness of microservices__  
@@ -60,15 +58,12 @@ A 17 part series on implementation details for Microservices
 <http://www.wwwlicious.com/2016/05/03/servicestack-microservices-1/>  
 ***
 __ServiceStack__  
-  
 <https://servicestack.net/>  
 ***
 __ServiceStack.EventStore__  
-  
 <https://github.com/MacLeanElectrical/servicestack-eventstore>  
 ***
 __Event Store__  
-  
 <https://geteventstore.com/>  
 ***
 __![star](./tags/star.png)Angular 2, React, and Knockout apps on ASP.NET Core__  
