@@ -1,4 +1,4 @@
-# Place heading here
+# Month of 2016-11
 __Become a git guru__  
 <<https://www.atlassian.com/git/tutorials/> >  
 ***

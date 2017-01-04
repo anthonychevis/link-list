@@ -1,4 +1,4 @@
-# Place heading here
+# Month of 2016-12
 __Debugging into ASP.NET Core Source__  
 Author: Steve Gordon  
 How to clone the ASP.NET repository so you can step right into the code in your debugger.  
