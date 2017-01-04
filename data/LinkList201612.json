@@ -1,0 +1,480 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2017-01-04T11:19:34.4394197+08:00",
+    "Heading": "Place heading here"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Debugging into ASP.NET Core Source",
+      "Description": "How to clone the ASP.NET repository so you can step right into the code in your debugger.",
+      "FromUrl": "<https://www.stevejgordon.co.uk/debugging-into-asp-net-core-source> ",
+      "Tag": null,
+      "Author": "Steve Gordon"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Custom ModelBinding in ASP.NET MVC Core",
+      "Description": "Shows how to insert a provider which will call a custom binder which ensures that incoming strings are HTML encoded.",
+      "FromUrl": "<https://www.stevejgordon.co.uk/html-encode-string-aspnet-core-model-binding> ",
+      "Tag": null,
+      "Author": "Steve Gordon"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Enforcing Immutability in Multi-Threaded Projects with NDepend",
+      "Description": "Unfortunately, Ndepend is not free.",
+      "FromUrl": "<http://www.daedtech.com/enforcing-mutability-multi-threaded-projects-ndepend/> ",
+      "Tag": null,
+      "Author": "Eric Dietrich"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "ASP.NET Core Logging Tutorial",
+      "Description": "Integrating Elmah into .NET core.",
+      "FromUrl": "<http://blog.elmah.io/aspnetcore-logging-tutorial/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "ASP.NET Core Authentication in a Load Balanced Environment with HAProxy and Redis",
+      "Description": null,
+      "FromUrl": "<http://www.tugberkugurlu.com/archive/asp-net-core-authentication-in-a-load-balanced-environment-with-haproxy-and-redis> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "AddFeatureFolders and UseNodeModules On Nuget For ASP.NET Core",
+      "Description": "",
+      "FromUrl": "<http://odetocode.com/blogs/scott/archive/2016/11/29/addfeaturefolders-and-usenodemodules-on-nuget-for-asp-net-core.aspx> ",
+      "Tag": null,
+      "Author": "K. Scott Allen"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Implementing a simple retry pattern in c#",
+      "Description": "",
+      "FromUrl": "<https://alastaircrabtree.com/implementing-a-simple-retry-pattern-in-c/> ",
+      "Tag": null,
+      "Author": "Alastair Crabtree"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Choose the right return type for WebApi controllers",
+      "Description": "",
+      "FromUrl": "<https://alastaircrabtree.com/choose-the-right-return-type-for-webapi-controllers/> ",
+      "Tag": null,
+      "Author": "Alastair Crabtree"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "QuickTip: Comparing strings in c# ignoring case? ToLower() is not the answer",
+      "Description": "",
+      "FromUrl": "<https://alastaircrabtree.com/quicktip-comparing-strings-in-c-tolower-is-not-the-answer/> ",
+      "Tag": null,
+      "Author": "Alastair Crabtree"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Alastair Crabtree",
+      "Description": "This guy has written some very practical blog entries",
+      "FromUrl": "<https://alastaircrabtree.com/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Let .NET framework care about transactions handling for you by implementing IEnlistmentNotification",
+      "Description": "Wow, very useful.",
+      "FromUrl": "<https://blog.goyello.com/2016/11/30/let-net-framework-care-about-transactions-handling/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Async Programming : Introduction to Async/Await on ASP.NET",
+      "Description": "This is oldie but goodie",
+      "FromUrl": "<https://msdn.microsoft.com/en-us/magazine/dn802603.aspx> ",
+      "Tag": "star",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Introducing the ASP.Net Async OutputCache Module",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2016/12/05/introducing-the-asp-net-async-outputcache-module/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "In-memory testing using ASP.NET Core",
+      "Description": "For integration tests, Microsoft provides a TestServer class in Microsoft.AspNetCore.TestHost which allows you to communicate from the test client to your ASP.NET application. Your application is loaded into the current process and the TestServer class allows you to bypass the network HTTP layer and write tests directly to ASP.NET Core request pipeline.",
+      "FromUrl": "<http://josephwoodward.co.uk/2016/12/in-memory-testing-using-asp-net-core> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Speed Up Skip and Take in Entity Framework with Lambda Expressions",
+      "Description": "A good tip for ensuring that a compiled query is reused on the server.",
+      "FromUrl": "<https://visualstudiomagazine.com/articles/2016/12/06/skip-take-entity-framework-lambda.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Server Side React",
+      "Description": "",
+      "FromUrl": "<https://remysharp.com/2016/12/07/server-side-react> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "React Starter Kit — isomorphic web app boilerplate ",
+      "Description": "Here is a isomorphic react starter kit which I tried once. It is visually quicker on the first response (when compared to a regular SPA) because of the rendering on the server. This project also provides a SPA and a ASP.NET flavor.",
+      "FromUrl": "<https://github.com/kriasoft/react-starter-kit> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Universal React",
+      "Description": "Related to above",
+      "FromUrl": "<https://24ways.org/2015/universal-react/> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Angular for NativeScript",
+      "Description": "You can fully reuse skills and code from the web to build beautiful, high performance native mobile apps. NativeScript features deep integration with Angular 2, the latest and greatest (and fastest) Angular framework.",
+      "FromUrl": "<https://www.nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "FIRST TIMERS ONLY",
+      "Description": "Friendly Open Source projects should reserve specific issues for newbies.Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.You can do it! Here’s how.",
+      "FromUrl": "<http://www.firsttimersonly.com/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Tests Are About Design",
+      "Description": "",
+      "FromUrl": "<http://openmymind.net/Tests-Are-About-Design/> ",
+      "Tag": null,
+      "Author": " Karl Seguin"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Professional ASP.NET MVC templates",
+      "Description": null,
+      "FromUrl": "<https://github.com/ASP-NET-MVC-Boilerplate/Templates> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "The best log viewer in the universe",
+      "Description": "Prefix",
+      "FromUrl": "<http://stackify.com/best-log-viewer-prefix/> ",
+      "Tag": "question",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Prefix ",
+      "Description": "Prefix isn’t a standard code profiler. It displays details per web request so you can understand what your code is doing and how long it takes (i.e. “what did my code just do?”).",
+      "FromUrl": "<http://stackify.com/prefix?_ga=1.264311823.1657853449.1481679832> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Accessing HttpContext outside of framework components in ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<http://www.strathweb.com/2016/12/accessing-httpcontext-outside-of-framework-components-in-asp-net-core/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "EF CORE DIAGNOSIS AND FEATURES WITH MS SQL SERVER",
+      "Description": "",
+      "FromUrl": "<https://damienbod.com/2016/12/13/ef-core-diagnosis-and-features-with-ms-sql-server/> ",
+      "Tag": null,
+      "Author": "Damien Bowden"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Static Analysis Isn’t Just for Techies",
+      "Description": "",
+      "FromUrl": "<http://www.daedtech.com/static-analysis-isnt-just-techies/> ",
+      "Tag": null,
+      "Author": "Eric Dietrich"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Fast track your Angular 2 and .NET Core web app development",
+      "Description": "Series to help you get productive with Angular 2 with .NET Core",
+      "FromUrl": "<https://jonhilton.net/2016/12/01/fast-track-your-angular-2-and-net-core-web-app-development/> ",
+      "Tag": null,
+      "Author": "Jon Hilton"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Announcing Microsoft ASP.NET WebHooks V1",
+      "Description": "A WebHook can be used to get notified when a file has changed in Dropbox, a code change has been committed to GitHub, a payment has been initiated in PayPal, a card has been created in Trello, and much more ",
+      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2016/12/14/introducing-microsoft-asp-net-webhooks-preview-2/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Why is reflection slow?",
+      "Description": null,
+      "FromUrl": "<http://mattwarren.org/2016/12/14/Why-is-Reflection-slow/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "FastMember",
+      "Description": "Use this instead of reflection",
+      "FromUrl": "<http://blog.marcgravell.com/2012/01/playing-with-your-member.html> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Your First Angular 2, ASP.NET Core Project in Visual Studio Code",
+      "Description": "A series of posts to teach you how to create an Angular 2 application with ASP.NET core.",
+      "FromUrl": "<http://angularfirst.com/your-first-angular-2-asp-net-core-project-in-visual-studio-code-part-1/> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Visual Studio Debugging and 64 Bit .NET Applications",
+      "Description": "",
+      "FromUrl": "<https://weblog.west-wind.com/posts/2016/Dec/19/Visual-Studio-Debugging-and-64-Bit-NET-Applications> ",
+      "Tag": null,
+      "Author": "Rick Strahl"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Create great looking, fast, mobile apps using JavaScript, Angular 2, and Ionic 2",
+      "Description": "",
+      "FromUrl": "<https://blogs.msdn.microsoft.com/visualstudio/2016/12/20/create-great-looking-fast-mobile-apps-using-javascript-angular-2-and-ionic-2/> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Which Hybrid-Framewok has more future? Ionic or React",
+      "Description": null,
+      "FromUrl": "<https://www.quora.com/Which-Hybrid-Framewok-has-more-future-Ionic-React-or-Meteor> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "React Native vs Ionic: A Side-by-Side Comparison",
+      "Description": null,
+      "FromUrl": "<https://www.codementor.io/fmcorz/tutorials/react-native-vs-ionic-du1087rsw> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Daily WTF",
+      "Description": "Forgot about this site. It tells stories of disaster in IT and bad coding choices.",
+      "FromUrl": "<http://thedailywtf.com/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Using Web Sockets with ASP.NET Core",
+      "Description": "Without Signal R",
+      "FromUrl": "<http://www.softfluent.com/blog/dev/2016/12/11/Using-Web-Sockets-with-ASP-NET-Core> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Back to Basics: String Interpolation in C#",
+      "Description": "String Interpolation is a compiler thing, not runtime!",
+      "FromUrl": "<https://weblog.west-wind.com/posts/2016/Dec/27/Back-to-Basics-String-Interpolation-in-C> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Neural Network Lab",
+      "Description": "Monthly articles on Visual Studio Magazine",
+      "FromUrl": "<https://visualstudiomagazine.com/Articles/List/Neural-Network-Lab.aspx> ",
+      "Tag": "read",
+      "Author": "James McCaffrey"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "The Data Science Lab",
+      "Description": "Monthly articles on Visual Studio Magazine",
+      "FromUrl": "<https://visualstudiomagazine.com/Articles/List/The-R-Lab.aspx> ",
+      "Tag": "read",
+      "Author": "James McCaffrey"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "The Traveling Santa Problem… a Neural Network solution",
+      "Description": "",
+      "FromUrl": "<http://www.rickyterrell.com/?p=97> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Developing Neural Networks Using Visual Studio - Video",
+      "Description": "Mar 30, 2014 at 11:06PMby James McCaffrey",
+      "FromUrl": "<https://channel9.msdn.com/Events/Build/2014/3-643> ",
+      "Tag": null,
+      "Author": "James McCaffrey"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Neural Network Newsgroup",
+      "Description": "",
+      "FromUrl": "<ftp://ftp.sas.com/pub/neural/FAQ.html#questions>",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Weka 3: Data Mining Software in Java",
+      "Description": "Weka is a collection of machine learning algorithms for data mining tasks. The algorithms can either be applied directly to a dataset or called from your own Java code. Weka contains tools for data pre-processing, classification, regression, clustering, association rules, and visualization.",
+      "FromUrl": "<http://www.cs.waikato.ac.nz/ml/weka/> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Iris Demo program from James McCaffrey's talk at Build 2014",
+      "Description": "",
+      "FromUrl": "<http://www.quaetrix.com/Build2014.html> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Speech Recognition Demo program from James McCaffery's talk at Build 2014",
+      "Description": "",
+      "FromUrl": "<http://www.quaetrix.com/SpeechDemo.html> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Introduction to R - Video",
+      "Description": "Oct 08, 2015 at 2:39PM by James McCaffrey",
+      "FromUrl": "<https://channel9.msdn.com/Events/DEVintersection/DEVintersection-2015/Introduction-to-R> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "The R Project for Statistical Computing",
+      "Description": null,
+      "FromUrl": "<https://www.r-project.org/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "SciPy",
+      "Description": "A Python-based ecosystem of open-source software for mathematics, science, and engineering. ",
+      "FromUrl": "<https://www.scipy.org/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Evelina Gabasova's blog",
+      "Description": "Welcome to my blog! I'm writing about data science and machine learning using the F# programming language.",
+      "FromUrl": "<http://evelinag.com/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Turn on logging of Entity Framework",
+      "Description": "You can turn on logging for your Entity Framework code with a single line",
+      "FromUrl": "<https://visualstudiomagazine.com/articles/2017/01/02/entity-framework-query-visual-studio.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "In-memory C# compilation (and .dll generation) using Roslyn",
+      "Description": null,
+      "FromUrl": "<http://josephwoodward.co.uk/2016/12/in-memory-c-sharp-compilation-using-roslyn> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Implementing the retry pattern for async tasks in c#",
+      "Description": "",
+      "FromUrl": "<https://alastaircrabtree.com/implementing-the-retry-pattern-for-async-tasks-in-c/> ",
+      "Tag": null,
+      "Author": "Alastair Crabtree"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Implementing the retry pattern in c sharp using Polly",
+      "Description": "",
+      "FromUrl": "<https://alastaircrabtree.com/implementing-the-retry-pattern-using-polly/> ",
+      "Tag": null,
+      "Author": "Alastair Crabtree"
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "ngrx/store",
+      "Description": "Reactive RxJS powered state management for Angular applications, inspired by Redux.",
+      "FromUrl": "<https://github.com/ngrx/store> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "Awesome Angular2 Architecture Options and Opinions",
+      "Description": null,
+      "FromUrl": "<http://blog.dmbcllc.com/awesome-angular2-architecture-options-and-opinions/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "How to enable gZip compression in ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<http://www.talkingdotnet.com/how-to-enable-gzip-compression-in-asp-net-core/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-04T11:18:49.5936761+08:00",
+      "Title": "CREATING A WEBSOCKETS MIDDLEWARE FOR ASP .NET CORE",
+      "Description": "",
+      "FromUrl": "<https://radu-matei.github.io/blog/aspnet-core-websockets-middleware/> ",
+      "Tag": "read",
+      "Author": null
+    }
+  ]
+}

@@ -14,7 +14,7 @@ __Getting Started with npm in Visual Studio__
 __GETTING STARTED WITH HTTP/2 AND SERVER PUSH__  
 <<http://www.deanhume.com/Home/BlogPost/getting-started-with-http-2-and-server-push/10152> >  
 ***
-__![star](./tags/star.png)API Design Using Behavior Driven Development__  
+__![tag](./tags/star.png)API Design Using Behavior Driven Development__  
 Author: Erik Dietrich  
 <<http://www.daedtech.com/api-design-using-behavior-driven-development/> >  
 ***
@@ -22,7 +22,7 @@ __Gherkin__
 This is the general reference for all Cucumber implementations.  
 <<https://cucumber.io/docs/reference> >  
 ***
-__![star](./tags/star.png)BUILD YOUR .NET CORE APP USING YEOMAN__  
+__![tag](./tags/star.png)BUILD YOUR .NET CORE APP USING YEOMAN__  
 There are now lots of sub-generators for ASP.NET core.  
 <<https://jonhilton.net/2016/10/26/building_net_core_app_using_yeoman/> >  
 ***
@@ -41,11 +41,11 @@ __Bearer Token Authentication in ASP.NET Core__
 __JSON Web Token (JWT)__  
 <<https://en.wikipedia.org/wiki/JSON_Web_Token> >  
 ***
-__![star](./tags/question.png)OpenIddict__  
+__![tag](./tags/question.png)OpenIddict__  
 The OpenID Connect server you'll be addicted to. I'm not sure if this is production ready.  
 <<https://github.com/openiddict/openiddict-core> >  
 ***
-__![star](./tags/star.png)CQRS/MediatR implementation patterns__  
+__![tag](./tags/star.png)CQRS/MediatR implementation patterns__  
 Author: Jimmy Bogard  
 <<https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/> >  
 ***
@@ -56,7 +56,7 @@ Author: Andrew Lock
 __ImageProcessor Core__  
 <<http://jamessouth.me/archive/imageprocessor-core/> >  
 ***
-__![star](./tags/star.png)ASP.NET API Versioning__  
+__![tag](./tags/star.png)ASP.NET API Versioning__  
 Author: Microsoft  
 So nice…  
 <<https://github.com/Microsoft/aspnet-api-versioning> >  
@@ -65,7 +65,7 @@ __ASP.NET Core RESTful Web API versioning made easy__
 Author: Scott Hanselman  
 <<http://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx> >  
 ***
-__![star](./tags/star.png)IdentityServer4__  
+__![tag](./tags/star.png)IdentityServer4__  
 This implements OpenID and OAuth 2.0 in ASP.NET core.The big Picture.  
 <<http://docs.identityserver.io/en/release/intro/big_picture.html> >  
 ***
@@ -75,7 +75,7 @@ __Human readable configuration with YAML in ASP.NET Core__
 __Using NDepend to Help Improve Architecture__  
 <<https://stevedesmond.ca/blog/using-ndepend-to-help-improve-architecture> >  
 ***
-__![star](./tags/star.png)YOU'RE USING HTTPCLIENT WRONG AND IT IS DESTABILIZING YOUR SOFTWARE__  
+__![tag](./tags/star.png)YOU'RE USING HTTPCLIENT WRONG AND IT IS DESTABILIZING YOUR SOFTWARE__  
 Explains that you should not wrap in a using statement. It is meant for shared access and is fully thread safe. When you dispose the HttpClient object, there are bad side effects.  
 <<http://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/> >  
 ***
@@ -97,21 +97,21 @@ Author: Scott Hanselman
 ServiceStack is an alternative to ASP.NET's Web API. It's a different perspective and a different architecture than what Microsoft provides out of the box.  
 <<http://www.hanselman.com/blog/ExploringServiceStacksSimpleAndFastWebServicesOnNETCore.aspx> >  
 ***
-__![star](./tags/question.png)Lazy async initialization for expiring objects__  
+__![tag](./tags/question.png)Lazy async initialization for expiring objects__  
 Really need to review and test this code before using.  
 <<http://www.strathweb.com/2016/11/lazy-async-initialization-for-expiring-objects/> >  
 ***
 __Designing with SVG: How Scalable Vector Graphics Can Increase Visitor Engagement__  
 <<https://www.shopify.com/partners/blog/5-ways-to-use-svg-in-upcoming-client-projects> >  
 ***
-__![star](./tags/star.png)Fat Controller CQRS Diet__  
+__![tag](./tags/star.png)Fat Controller CQRS Diet__  
 A series still in the works:1 :  Simple Query<http://codeopinion.com/fat-controller-cqrs-diet-simple-query/> 2 : Simple Command<http://codeopinion.com/fat-controller-cqrs-diet-simple-command/>  
 <<http://codeopinion.com/fat-controller-cqrs-diet/> >  
 ***
 __Microsoft Flow is Now Available__  
 <<https://www.thurrott.com/cloud/84541/microsoft-flow-now-available> >  
 ***
-__![star](./tags/question.png)ReactJS.NET : Tutorial__  
+__![tag](./tags/question.png)ReactJS.NET : Tutorial__  
 Not sure why you would need this.  
 <<https://reactjs.net/getting-started/tutorial.html> >  
 ***
@@ -135,7 +135,7 @@ __Jot - a .NET library for managing application state__
 It helps you persist your window size and position state. But take a look at the size of the .json settings file! Someone needs to rewrite it using YAML!  
 <<http://www.codeproject.com/Articles/1152831/Jot-a-NET-library-for-managing-application-state> >  
 ***
-__![star](./tags/star.png)The Developer Feedback Loop__  
+__![tag](./tags/star.png)The Developer Feedback Loop__  
 Author:  Erik Dietrich  
 Look for tools that help decrease your build time.  
 <<http://www.daedtech.com/developer-feedback-loop/> >  
@@ -187,12 +187,12 @@ __ContosoUniversity on ASP.NET Core with Full .NET Framework__
 Author: Jimmy Bogard  
 <<https://github.com/jbogard/contosouniversitycore> >  
 ***
-__![star](./tags/star.png)Vertical Slice Test Fixtures for MediatR and ASP.NET Core__  
+__![tag](./tags/star.png)Vertical Slice Test Fixtures for MediatR and ASP.NET Core__  
 Author: Jimmy Bogard  
 Integration tests which go all the way to the database. Sometimes, it is only way to feel comfortable about your code. You can have the tests fail-first as you build up a complete implementation.  
 <<https://lostechies.com/jimmybogard/2016/10/24/vertical-slice-test-fixtures-for-mediatr-and-asp-net-core/> >  
 ***
-__![star](./tags/star.png)The Advanced Uses of Razor Views in ASP.NET MVC__  
+__![tag](./tags/star.png)The Advanced Uses of Razor Views in ASP.NET MVC__  
 Author: Dino Esposito  
 Near the bottom of this article is information on how to generate emails from Razor views.  
 <<https://www.simple-talk.com/dotnet/asp-net/advanced-uses-razor-views-asp-net-mvc/> >  
@@ -202,7 +202,7 @@ Author: Ayende
 Series of posts demonstrating optimizing techniques - he even uses native unsafe code (C++) within C#.  
 <<https://ayende.com/blog/176034/making-code-faster-the-interview-question> >  
 ***
-__![star](./tags/star.png)Firebase__  
+__![tag](./tags/star.png)Firebase__  
 Author: Google  
 From Google: gives you free tools, database, storage and hosting!  
 <<https://firebase.google.com/> >  
@@ -224,16 +224,16 @@ __Yes, Microsoft Just Joined The Linux Foundation__
 __Google signs on to the .NET Foundation__  
 <<https://techcrunch.com/2016/11/16/google-signs-on-to-the-net-foundation-and-samsung-brings-net-support-to-tizen/> >  
 ***
-__![star](./tags/star.png).NET Standard 2.0 - Making Sense of .NET Again__  
+__![tag](./tags/star.png).NET Standard 2.0 - Making Sense of .NET Again__  
 Author: Rick Strahl  
 Good report on the state of .NET  
 <<https://weblog.west-wind.com/posts/2016/Nov/23/NET-Standard-20-Making-Sense-of-NET-Again> >  
 ***
-__![star](./tags/star.png)Enforcing Referential Integrity Between Documents with Marten and PostgreSQL__  
+__![tag](./tags/star.png)Enforcing Referential Integrity Between Documents with Marten and PostgreSQL__  
 Foreign keys for document databases!  
 <<http://dontcodetired.com/blog/post/Enforcing-Referential-Integrity-Between-Documents-with-Marten-and-PostgreSQL> >  
 ***
-__![star](./tags/star.png)NIST’s new password rules__  
+__![tag](./tags/star.png)NIST’s new password rules__  
 National Institute for Standards and Technology (NIST). These policies are sensible and a great template for all of us.  
 <<https://nakedsecurity.sophos.com/2016/08/18/nists-new-password-rules-what-you-need-to-know/> >  
 ***

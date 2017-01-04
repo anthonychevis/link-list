@@ -2,16 +2,16 @@
 __Aurelia 1.0 is Here!!!__  
 <http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/?utm_source=DNK-159757&utm_medium=DNK-159757&utm_content=DNK-159757&utm_campaign=DNK-159757>  
 ***
-__![star](./tags/star.png)Exploring a minimal WebAPI with .NET Core and NancyFX__  
+__![tag](./tags/star.png)Exploring a minimal WebAPI with .NET Core and NancyFX__  
 <http://www.hanselman.com/blog/ExploringAMinimalWebAPIWithNETCoreAndNancyFX.aspx>  
 ***
-__![star](./tags/star.png)COMPILE YOUR CHANGES ON THE FLY WITH .NET CORE WATCH__  
+__![tag](./tags/star.png)COMPILE YOUR CHANGES ON THE FLY WITH .NET CORE WATCH__  
 <https://jonhilton.net/2016/08/04/compile-your-changes-on-the-fly-with-net-core/>  
 ***
-__![star](./tags/star.png)Collecting Windows 10 "Anniversary Edition" Keyboard Shortcuts__  
+__![tag](./tags/star.png)Collecting Windows 10 "Anniversary Edition" Keyboard Shortcuts__  
 <http://www.hanselman.com/blog/CollectingWindows10AnniversaryEditionKeyboardShortcuts.aspx>  
 ***
-__![star](./tags/star.png)Understanding Pusher__  
+__![tag](./tags/star.png)Understanding Pusher__  
 Pusher is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.  
 <https://pusher.com/docs>  
 ***
@@ -21,13 +21,13 @@ __How to Use ` with Visual Studio and ASP.NET Web API__
 __Retrieving Performance Counter from a remote PC using C#__  
 <http://www.productiverage.com/retrieving-performance-counter-from-a-remote-pc-using-c-sharp>  
 ***
-__![star](./tags/star.png)Tutorial: Using Entity Framework Core as an In-Memory Database for ASP.NET Core__  
+__![tag](./tags/star.png)Tutorial: Using Entity Framework Core as an In-Memory Database for ASP.NET Core__  
 <https://stormpath.com/blog/tutorial-entity-framework-core-in-memory-database-asp-net-core>  
 ***
 __Visual Studio's most useful (and underused) tips__  
 <http://www.hanselman.com/blog/VisualStudiosMostUsefulAndUnderusedTips.aspx>  
 ***
-__![star](./tags/star.png)Why I’m leaving React behind__  
+__![tag](./tags/star.png)Why I’m leaving React behind__  
 <https://shellmonger.com/2016/08/14/why-im-leaving-react-behind/>  
 ***
 __Follow-up to Why I’m Leaving React Behind__  
@@ -40,13 +40,13 @@ Why? Because then you can search your debugging logs.
 __Refactoring Production Code With Experiments and Scientist.NET__  
 <http://dontcodetired.com/blog/post/Refactoring-Production-Code-With-Experiments-and-ScientistNET>  
 ***
-__![star](./tags/star.png)What’s New in C# 7.0__  
+__![tag](./tags/star.png)What’s New in C# 7.0__  
 <https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/>  
 ***
 __Evolution of Microsoft Bot Framework__  
 <http://www.codeproject.com/Articles/1120056/Evolution-of-Microsoft-Bot-Framework>  
 ***
-__![star](./tags/star.png)Build cross platform desktop apps__  
+__![tag](./tags/star.png)Build cross platform desktop apps__  
 with JavaScript, HTML, and CSS  
 <http://electron.atom.io/>  
 ***

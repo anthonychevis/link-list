@@ -26,7 +26,7 @@ __Strongly Typed Configuration Settings in ASP.NET Core__
 ASP.NET Core has a pluggable configuration system which supports a variety of different mechanisms for reading configuration data. The configuration extensions give you access to the required Configuration overload to map a strongly typed class to a configuration section in the configuration store.  
 <http://weblog.west-wind.com/posts/2016/May/23/Strongly-Typed-Configuration-Settings-in-ASPNET-Core>  
 ***
-__![star](./tags/star.png)What happens when you type google.com into your browser's address box and press enter?__  
+__![tag](./tags/star.png)What happens when you type google.com into your browser's address box and press enter?__  
 we're going to try to answer this question in as much detail as possible. No skipping out on anything.  
 <https://github.com/alex/what-happens-when>  
 ***
@@ -34,7 +34,7 @@ __Builder: C#__
 Factory pattern  
 <http://blogs.tedneward.com/patterns/Builder-CSharp/>  
 ***
-__![star](./tags/star.png)How to Build a Search Page with Elasticsearch and .NET__  
+__![tag](./tags/star.png)How to Build a Search Page with Elasticsearch and .NET__  
 <https://www.simple-talk.com/dotnet/development/how-to-build-a-search-page-with-elasticsearch-and-.net/>  
 ***
 __SQL LOCALIZATION NUGET PACKAGE FOR ASP.NET CORE__  
@@ -51,7 +51,7 @@ __ASP.NET MVC Boilerplate__
 A professional ASP.NET MVC template for building secure, fast, robust and adaptable web applications or sites.  
 <https://visualstudiogallery.msdn.microsoft.com/6cf50a48-fc1e-4eaf-9e82-0b2a6705ca7d>  
 ***
-__![star](./tags/star.png)MediatR (from Jimmy Bogard)__  
+__![tag](./tags/star.png)MediatR (from Jimmy Bogard)__  
 A low-ambition library trying to solve a simple problem - decoupling the in-proc sending of messages from handling messages.  
 <https://github.com/jbogard/MediatR/wiki>  
 ***
@@ -59,7 +59,7 @@ __SIMPLIFY YOUR CONTROLLERS WITH THE COMMAND PATTERN AND MEDIATR__
 How to use it in MVC  
 <https://jonhilton.net/2016/06/06/simplify-your-controllers-with-the-command-pattern-and-mediatr/>  
 ***
-__![star](./tags/star.png)Getting Started with Redux__  
+__![tag](./tags/star.png)Getting Started with Redux__  
 30 part video tutorial introducing Redux with React  
 <https://egghead.io/courses/getting-started-with-redux>  
 ***
@@ -76,20 +76,20 @@ __ASP.NET Core 1.0 Schedule and Roadmap__
 Release set on June 27  
 <https://github.com/aspnet/Home/wiki/Roadmap>  
 ***
-__![star](./tags/star.png)CQRS and REST: the perfect match__  
+__![tag](./tags/star.png)CQRS and REST: the perfect match__  
 <https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/>  
 ***
 __Angular Directives Mapped to React__  
 <https://daveceddia.com/angular-directives-mapped-to-react/>  
 ***
-__![star](./tags/star.png)10 Lessons from a Long Running DDD Project – Part 1__  
+__![tag](./tags/star.png)10 Lessons from a Long Running DDD Project – Part 1__  
 Jimmy Bogard kicks off what promises to be an interesting series looking at some of the real world lessons learned from a long term Domain Driven Design project  
 <https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/>  
 ***
 __Announcing WCF Connected Service for .NET Core RC2 and ASP.NET Core RC2__  
 <https://blogs.msdn.microsoft.com/webdev/2016/05/25/announcing-wcf-connected-service-for-net-core-rc2-and-asp-net-core-rc2/>  
 ***
-__![star](./tags/star.png)ASP.NET Core: No more worries about checking in secrets__  
+__![tag](./tags/star.png)ASP.NET Core: No more worries about checking in secrets__  
 <http://www.jerriepelser.com/blog/aspnet-core-no-more-worries-about-checking-in-secrets>  
 ***
 __ASP.NET Core Distributed Cache Tag Helper__  
@@ -98,7 +98,7 @@ __ASP.NET Core Distributed Cache Tag Helper__
 __MSBuild Structured Log: record and visualize your builds__  
 <http://www.hanselman.com/blog/MSBuildStructuredLogRecordAndVisualizeYourBuilds.aspx>  
 ***
-__![star](./tags/star.png)A deep dive into the ASP.NET Core CORS library__  
+__![tag](./tags/star.png)A deep dive into the ASP.NET Core CORS library__  
 <http://andrewlock.net/a-deep-dive-in-to-the-asp-net-core-cors-library/>  
 ***
 __Templates for building React.js front-ends in ASP.NET Core and MVC5__  
@@ -107,13 +107,13 @@ __Templates for building React.js front-ends in ASP.NET Core and MVC5__
 __Strongly Typed Configuration Settings in ASP.NET Core__  
 <https://weblog.west-wind.com/posts/2016/May/23/Strongly-Typed-Configuration-Settings-in-ASPNET-Core>  
 ***
-__![star](./tags/star.png)10 Lessons from a Long Running DDD Project – Part 2__  
+__![tag](./tags/star.png)10 Lessons from a Long Running DDD Project – Part 2__  
 <https://lostechies.com/jimmybogard/2016/06/20/10-lessons-from-a-long-running-ddd-project-part-2/>  
 ***
-__![star](./tags/star.png)Marten as Document Db__  
+__![tag](./tags/star.png)Marten as Document Db__  
 <http://jasperfx.github.io/marten/documentation/documents/>  
 ***
-__![star](./tags/star.png)Marten as Event Store__  
+__![tag](./tags/star.png)Marten as Event Store__  
 <http://jasperfx.github.io/marten/documentation/events/>  
 ***
 __Pushing Data: Integrating with ASP.NET SignalR Hubs__  
@@ -122,7 +122,7 @@ __Pushing Data: Integrating with ASP.NET SignalR Hubs__
 __Build a Real-time SignalR Dashboard with AngularJS__  
 <https://www.sitepoint.com/build-real-time-signalr-dashboard-angularjs/>  
 ***
-__![star](./tags/star.png)Bootstrap__  
+__![tag](./tags/star.png)Bootstrap__  
 Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web  
 <http://getbootstrap.com/>  
 ***

@@ -218,7 +218,7 @@ namespace Softtouch.LinkListUtilities
                 writer.WriteLine($"# {document.DocumentInfo.Heading}");
 
                 foreach (LinkItem item in document.LinkList) {
-                    writer.WriteLine($"__{(!string.IsNullOrEmpty(item.Tag) ? "![star](./tags/" + item.Tag + ".png)" : "")}{item.Title?.Trim()}__  ");
+                    writer.WriteLine($"__{(!string.IsNullOrEmpty(item.Tag) ? "![tag](./tags/" + item.Tag + ".png)" : "")}{item.Title?.Trim()}__  ");
                     if (!string.IsNullOrEmpty(item.Author)) {
                         writer.WriteLine($"Author: {item.Author}  ");
                     }

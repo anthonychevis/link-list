@@ -1,5 +1,5 @@
 # Month of 2016-04
-__![star](./tags/star.png)Feature Toggles__  
+__![tag](./tags/star.png)Feature Toggles__  
 A way to turn on and off new features. This way you can avoid "new feature" branches and place the feature directly in the "main" branch - then you can turn it on or off as you need.  
 <http://martinfowler.com/articles/feature-toggles.html>  
 ***
@@ -18,7 +18,7 @@ The development build, not the build server, should contain all logic to create 
 __Using Gulp to Build and Deploy .NET Apps on Windows November, 2014__  
 <http://www.mikeobrien.net/blog/using-gulp-to-build-and-deploy-dotnet-apps-on-windows/>  
 ***
-__![star](./tags/star.png)Stack Overflow: The Architecture - 2016 Edition__  
+__![tag](./tags/star.png)Stack Overflow: The Architecture - 2016 Edition__  
 <http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/>  
 ***
 __Stack Overflow: The Hardware - 2016 Edition__  
@@ -35,11 +35,11 @@ Has anyone used this? Looks totally cool.
 __ReproducibleBuild__  
 <http://martinfowler.com/bliki/ReproducibleBuild.html>  
 ***
-__![star](./tags/star.png)It's Not Just Standing Up: Patterns for Daily Standup Meetings__  
+__![tag](./tags/star.png)It's Not Just Standing Up: Patterns for Daily Standup Meetings__  
 A very long read, but interesting I think, particularly if you are Team Lead or want to be.  
 <http://martinfowler.com/articles/itsNotJustStandingUp.html>  
 ***
-__![star](./tags/star.png)Announcing ASP.NET WebHooks Release Candidate 1__  
+__![tag](./tags/star.png)Announcing ASP.NET WebHooks Release Candidate 1__  
 Provides a simple mechanism for sending event notifications across web applications and external services  
 <https://blogs.msdn.microsoft.com/webdev/2016/03/05/announcing-asp-net-webhooks-release-candidate-1/>  
 ***
@@ -60,15 +60,15 @@ __CI with TeamCity and Docker – Part 1__
 __Deploying Azure web applications with FAKE__  
 <https://cockneycoder.wordpress.com/2016/04/05/deploying-web-applications-azure-with-fake/>  
 ***
-__![star](./tags/star.png)Edument CQRS and Intentful Testing Starter Kit__  
+__![tag](./tags/star.png)Edument CQRS and Intentful Testing Starter Kit__  
 Tutorial and starter kit fir CQRS. This is worth the effort of following all the way through this.  
 <http://cqrs.nu/tutorial>  
 ***
-__![star](./tags/star.png)CQRS Journey__  
+__![tag](./tags/star.png)CQRS Journey__  
 A really long and boring read - I recommend it strongly  
 <https://msdn.microsoft.com/en-us/library/jj554200.aspx>  
 ***
-__![star](./tags/star.png)ASP.Net – Ensure your Actions aren’t missing Authorization with Unit Tests__  
+__![tag](./tags/star.png)ASP.Net – Ensure your Actions aren’t missing Authorization with Unit Tests__  
 nice tip for testing cross cutting concerns from inside a unit testing framework  
 <http://blogs.lessthandot.com/index.php/webdev/asp-net-ensure-your-actions-arent-missing-authorization-with-unit-tests/>  
 ***
@@ -76,11 +76,11 @@ __How to host your own NuGet Server and Package Feed__
 By the way, Visual Studio Team Services offers private NuGet Feeds  
 <http://www.hanselman.com/blog/HowToHostYourOwnNuGetServerAndPackageFeed.aspx>  
 ***
-__![star](./tags/star.png)Let’s Encrypt__  
+__![tag](./tags/star.png)Let’s Encrypt__  
 Free CA  
 <https://letsencrypt.org/>  
 ***
-__![star](./tags/star.png)Protect Data in Transit__  
+__![tag](./tags/star.png)Protect Data in Transit__  
 Nice little introduction to https, TLS, certificates, CA, etc.  
 <http://martinfowler.com/articles/web-security-basics.html#ProtectDataInTransit>  
 ***
@@ -96,11 +96,11 @@ __Apache Cordova__
 (formerly PhoneGap) is a popular mobile application development framework  
 <https://en.wikipedia.org/wiki/Apache_Cordova>  
 ***
-__![star](./tags/star.png)The Raft Consensus Algorithm__  
+__![tag](./tags/star.png)The Raft Consensus Algorithm__  
 Algorithm for clustering  
 <https://raft.github.io/>  
 ***
-__![star](./tags/star.png)Mocks Aren't Stubs__  
+__![tag](./tags/star.png)Mocks Aren't Stubs__  
 An oldie but goodie  
 <http://martinfowler.com/articles/mocksArentStubs.html>  
 ***
@@ -108,7 +108,7 @@ __Agile manifesto__
 English: From <http://agilemanifesto.org/principles.html> Chinese: From <http://agilemanifesto.org/iso/zhcht/> WHAT IS MICROSERVICES ARCHITECTURE?  
 <https://smartbear.com/learn/api-design/what-are-microservices/>  
 ***
-__![star](./tags/star.png)Aspect-Oriented Programming : Aspect-Oriented Programming with the RealProxy Class__  
+__![tag](./tags/star.png)Aspect-Oriented Programming : Aspect-Oriented Programming with the RealProxy Class__  
 Thanks Wilson!  
 <https://msdn.microsoft.com/en-us/magazine/dn574804.aspx>  
 ***
