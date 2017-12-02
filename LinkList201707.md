@@ -1,4 +1,4 @@
-# Place heading here
+# Month of 2017-07
 __Fast track your Angular 2 and .NET Core web app development__  
 Author: Jon Hilton  
 Series to help you get productive with Angular 2 with .NET Core  

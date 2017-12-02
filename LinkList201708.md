@@ -1,4 +1,4 @@
-# Month of 2017-07
+# Month of 2017-08
 __ASP.NET Core MVC – Custom Tag Helpers__  
 <<https://codingblast.com/asp-net-core-mvc-custom-tag-helpers/> >  
 ***
