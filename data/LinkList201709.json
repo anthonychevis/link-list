@@ -1,0 +1,96 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2017-12-02T14:06:45.744369+08:00",
+    "Heading": "Place heading here"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "Kubernetes vs. Docker: Comparing Containerization Platforms",
+      "Description": null,
+      "FromUrl": "<http://technologyadvice.com/blog/information-technology/kubernetes-vs-docker/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. ",
+      "Description": null,
+      "FromUrl": "<http://flask.pocoo.org/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "Flask",
+      "Description": "Flask is a Python web framework built with a small core and easy-to-extend philosophy.",
+      "FromUrl": "<https://www.fullstackpython.com/flask.html> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "How to include scopes when logging exceptions in ASP.NET Core ",
+      "Description": null,
+      "FromUrl": "<https://andrewlock.net/how-to-include-scopes-when-logging-exceptions-in-asp-net-core/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "A Functional Web with ASP.NET Core and F#'s Giraffe",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/AFunctionalWebWithASPNETCoreAndFsGiraffe.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "Abstracting System Time in ASP.NET Applications",
+      "Description": null,
+      "FromUrl": "<https://www.red-gate.com/simple-talk/dotnet/asp-net/abstracting-system-time-asp-net-applications/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "In memory Entity Framework testing via Effort library, in practice",
+      "Description": null,
+      "FromUrl": "<https://www.codeproject.com/Articles/1206737/In-memory-Entity-Framework-testing-via-Effort-libr> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "What would a cross-platform .NET UI Framework look like? Exploring Avalonia",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/WhatWouldACrossplatformNETUIFrameworkLookLikeExploringAvalonia.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "A few notes on creating Class Libraries for ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<https://weblog.west-wind.com/posts/2017/Sep/26/A-few-notes-on-creating-Class-Libraries-for-ASPNET-Core> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "Build a web service with F# and .NET Core 2.0",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/dotnet/2017/09/26/build-a-web-service-with-f-and-net-core-2-0/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-09-01T13:55:24",
+      "Title": "The Book of the Runtime - The internals of the .NET Runtime that you won't find in the documentation",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/TheBookOfTheRuntimeTheInternalsOfTheNETRuntimeThatYouWontFindInTheDocumentation.aspx> ",
+      "Tag": null,
+      "Author": null
+    }
+  ]
+}

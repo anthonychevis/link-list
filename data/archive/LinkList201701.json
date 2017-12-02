@@ -1,0 +1,184 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2017-12-02T13:58:04.879586+08:00",
+    "Heading": "Place heading here"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Prefix: A lightweight ASP.NET profiler helping you write better software",
+      "Description": null,
+      "FromUrl": "<http://stackify.com/asp-net-profiler/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Prefix",
+      "Description": "Free!",
+      "FromUrl": "<http://stackify.com/prefix> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Angular 2 and .NET Core – route directly to your components",
+      "Description": "Next in his fast-track series ",
+      "FromUrl": "<https://jonhilton.net/2017/01/03/angular-2-and-net-core-route-to-an-angular-component/> ",
+      "Tag": null,
+      "Author": "Jon Hilton"
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "2017 Tech Predictions",
+      "Description": "",
+      "FromUrl": "<http://blogs.tedneward.com/post/2017-tech-predictions/> ",
+      "Tag": null,
+      "Author": "Ted Neward"
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "TypeScript: the missing introduction",
+      "Description": null,
+      "FromUrl": "<https://toddmotto.com/typescript-the-missing-introduction> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Deconstruction In C# 7.0",
+      "Description": null,
+      "FromUrl": "<http://www.c-sharpcorner.com/article/deconstruction-in-c-sharp-7-0/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "TypeScript 2.0: More Power for Defining Classes",
+      "Description": null,
+      "FromUrl": "<https://visualstudiomagazine.com/articles/2016/12/01/defining-classes.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": ".Net Core and NancyFX: can writing a WebApi get any simpler?",
+      "Description": null,
+      "FromUrl": "<https://carlos.mendible.com/2017/01/16/net-core-and-nancyfx-can-writing-a-webapi-get-any-simpler/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Display the weather using Angular 2 and .NET Core Web API",
+      "Description": "Next in his fast-track series ",
+      "FromUrl": "<https://jonhilton.net/2017/01/16/display-the-weather-using-angular-2-and-net-core-web-api/> ",
+      "Tag": null,
+      "Author": "Jon Hilton"
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Git(Hub) Tip of the Day 2017",
+      "Description": null,
+      "FromUrl": "<https://saraford.net/category/github-tip-of-the-day-2017/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Monday Vision, Daily Outcomes, Friday Reflection for Remote Team Management",
+      "Description": null,
+      "FromUrl": "<http://www.hanselman.com/blog/MondayVisionDailyOutcomesFridayReflectionForRemoteTeamManagement.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Searching should be so hard",
+      "Description": "",
+      "FromUrl": "<https://ayende.com/blog/176482/searching-shouldnt-be-so-hard> ",
+      "Tag": null,
+      "Author": " Ayende"
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "What does this tidbit do",
+      "Description": "",
+      "FromUrl": "<https://ayende.com/blog/176513/what-does-this-tidbit-do> ",
+      "Tag": null,
+      "Author": "Ayende"
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "OneTrueError - Automated exception handling",
+      "Description": null,
+      "FromUrl": "<https://www.codeproject.com/articles/1126297/onetrueerror-automated-exception-handling> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "bitwarden ",
+      "Description": "is the easiest and safest way to store and sync your passwords across all of your devices. 100% FREE.",
+      "FromUrl": "<https://bitwarden.com/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Real-time applications using ASP.NET Core, SignalR & Angular",
+      "Description": null,
+      "FromUrl": "<https://chsakell.com/2016/10/10/real-time-applications-using-asp-net-core-signalr-angular/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "ReactJS.NET - Tutorial (ASP.NET Core)",
+      "Description": null,
+      "FromUrl": "<https://reactjs.net/getting-started/tutorial.html> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Building Apps with Polymer and ASP.NET CORE",
+      "Description": "No idea what Polymer is",
+      "FromUrl": "<http://www.fiyazhasan.me/building-apps-with-polymer-and-asp-net-core-part-i/> ",
+      "Tag": "question",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Localization Resource Generator & Translator via \"dotnet\" CLI",
+      "Description": "Cool idea",
+      "FromUrl": "<http://www.hishambinateya.com/localization-resource-generator-and-translator-via-dotnet-cli> ",
+      "Tag": "read",
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Modifying the UI based on user authorisation in ASP.NET Core",
+      "Description": "It shows how to modify the UI you present based on the authorisation level of the current user.",
+      "FromUrl": "<http://andrewlock.net/modifying-the-ui-based-on-user-authorisation-in-asp-net-core/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Building Application Insights Logging Provider for ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<http://hishambinateya.com/building-application-insights-logging-provider-for-asp.net-core> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-01-01T13:55:24",
+      "Title": "Create a UWP-Based ChatBot Using the Microsoft Bot Framework Direct Line API",
+      "Description": null,
+      "FromUrl": "<https://visualstudiomagazine.com/articles/2017/01/01/create-a-uwp-based-chatbot.aspx> ",
+      "Tag": null,
+      "Author": null
+    }
+  ]
+}

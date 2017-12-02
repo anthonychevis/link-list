@@ -1,0 +1,136 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2017-12-02T14:07:29.661376+08:00",
+    "Heading": "Place heading here"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Swagger : THE WORLD'S MOST POPULAR API TOOLING",
+      "Description": null,
+      "FromUrl": "<https://swagger.io/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Auditing with EF Core and Sql Server – Part 1: Temporal tables",
+      "Description": null,
+      "FromUrl": "<http://blog.bennymichielsen.be/2017/11/07/auditing-with-ef-core-and-sql-server-part-1/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "WebOptimizer - a Bundler and Minifier for ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/WebOptimizerABundlerAndMinifierForASPNETCore.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "EF Core Multi-Tenancy: Query Filter",
+      "Description": null,
+      "FromUrl": "<https://codeopinion.com/ef-core-multi-tenancy-query-filter/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Announcing Visual Studio and Kubernetes – Visual Studio Connected Environment",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/AnnouncingVisualStudioAndKubernetesVisualStudioConnectedEnvironment.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Progressive Web Apps",
+      "Description": null,
+      "FromUrl": "<https://developers.google.com/web/progressive-web-apps/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Introducing Visual Studio Live Share",
+      "Description": null,
+      "FromUrl": "<https://code.visualstudio.com/blogs/2017/11/15/live-share> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Implementing background tasks in .NET Core 2.x webapps or microservices with IHostedService and the BackgroundService class",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/cesardelatorre/2017/11/18/implementing-background-tasks-in-microservices-with-ihostedservice-and-the-backgroundservice-class-net-core-2-x/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "C# 7.2: Understanding Span",
+      "Description": null,
+      "FromUrl": "<https://channel9.msdn.com/Events/Connect/2017/T125> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Micro Frontends",
+      "Description": null,
+      "FromUrl": "<https://micro-frontends.org/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Why I’m Betting on Web Components (and You Should Think About Using Them Too)",
+      "Description": null,
+      "FromUrl": "<https://medium.com/@gilfink/why-im-betting-on-web-components-and-you-should-think-about-using-them-too-8629396e27a> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Setting up CORS request with Windows Integrated Authentication and ASP.net CORE",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/friis/2017/11/24/setting-up-cors-request-with-windows-integrated-authentication-and-asp-net-core/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Improve website performance by optimizing images",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2017/11/28/improve-website-performance-by-optimizing-images/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "How to download embedded videos with F12 Tools in your browser",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/HowToDownloadEmbeddedVideosWithF12ToolsInYourBrowser.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Progressive Web Apps made easy with ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<https://madskristensen.net/blog/progressive-web-apps-made-easy-with-aspnet-core/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-11-01T13:55:24",
+      "Title": "Creating a Minimal ASP.NET Core Windows Container",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/webdev/2017/11/09/creating-a-minimal-asp-net-core-windows-container/> ",
+      "Tag": null,
+      "Author": null
+    }
+  ]
+}

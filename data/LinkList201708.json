@@ -1,0 +1,72 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2017-12-02T14:06:05.2333771+08:00",
+    "Heading": "Place heading here"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "ASP.NET Core MVC – Custom Tag Helpers",
+      "Description": null,
+      "FromUrl": "<https://codingblast.com/asp-net-core-mvc-custom-tag-helpers/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Exploring the Environment Tag Helper exclude and include attributes in ASP.NET Core 2",
+      "Description": null,
+      "FromUrl": "<https://scottsauber.com/2017/07/19/environment-taghelper-exclude-and-include-attributes-in-asp-net-core-2/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Project Snowflake: Non-blocking safe manual memory management in .NET",
+      "Description": null,
+      "FromUrl": "<https://www.microsoft.com/en-us/research/publication/project-snowflake-non-blocking-safe-manual-memory-management-net/#> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "The Rise of Test Impact Analysis",
+      "Description": null,
+      "FromUrl": "<https://martinfowler.com/articles/rise-test-impact-analysis.html> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Accelerated Continuous Testing with Test Impact Analysis – Part 1",
+      "Description": null,
+      "FromUrl": "<https://blogs.msdn.microsoft.com/devops/2017/03/02/accelerated-continuous-testing-with-test-impact-analysis-part-1/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Handling HTML5 Client Route Fallbacks in ASP.NET Core",
+      "Description": "<author:Rick Strahl>",
+      "FromUrl": "<https://weblog.west-wind.com/posts/2017/Aug/07/Handling-HTML5-Client-Route-Fallbacks-in-ASPNET-Core> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "A proper terminal for Visual Studio",
+      "Description": "<Scottt Hanselman>",
+      "FromUrl": "<https://www.hanselman.com/blog/AProperTerminalForVisualStudio.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "DEBUGGING REACT NATIVE WITH TYPESCRIPT AND VISUAL STUDIO CODE",
+      "Description": null,
+      "FromUrl": "<https://shellmonger.com/2017/08/09/debugging-react-native-with-typescript-and-visual-studio-code/> ",
+      "Tag": null,
+      "Author": null
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "DocumentInfo": {
+    "PostedDate": "2017-12-02T14:04:18.7886055+08:00",
+    "Heading": "Place heading here"
+  },
+  "LinkList": [
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Fast track your Angular 2 and .NET Core web app development",
+      "Description": "Series to help you get productive with Angular 2 with .NET Core",
+      "FromUrl": "<https://jonhilton.net/2016/12/01/fast-track-your-angular-2-and-net-core-web-app-development/> ",
+      "Tag": null,
+      "Author": "Jon Hilton"
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Login & Authentication for your ASP.NET Core Web API – The Big Picture",
+      "Description": "",
+      "FromUrl": "<https://jonhilton.net/2017/05/03/login-authentication-asp-net-core-web-api-big-picture/> ",
+      "Tag": null,
+      "Author": "Jon Hilton"
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Secure your ASP.NET Core MVC and Web API app using Google",
+      "Description": "",
+      "FromUrl": "<https://jonhilton.net/2017/05/10/secure-you-asp-net-core-mvc-and-web-api-app-using-google/> ",
+      "Tag": null,
+      "Author": "Jon Hilton"
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Angular Style Guide",
+      "Description": null,
+      "FromUrl": "<https://angular.io/guide/styleguide#!#app-structure-and-angular-modules> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "A Collective List Of APIs. Build Something.",
+      "Description": "ApiList.fun was started mainly because every side project I develop or I see started involves some kind of external API so I thought it would be helpful to have a list of all the apis available and have filters to maybe get ideas for new projects by exploring unknown apis....",
+      "FromUrl": "<http://apilist.fun/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "IronPython is an open-source implementation of the Python programming language which is tightly integrated with the .NET Framework. ",
+      "Description": null,
+      "FromUrl": "<http://ironpython.net/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Kaggle - Your Home for Data Science",
+      "Description": null,
+      "FromUrl": "<https://www.kaggle.com/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "10 Things To Know About In-Memory Caching In ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<http://www.binaryintellect.net/articles/a7d9edfd-1f86-45f8-a668-64cc86d8e248.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "LLBLGen Pro for .NET and .NET Core - Database Entity Modeling with any ORM",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/LLBLGenProForNETAndNETCoreDatabaseEntityModelingWithAnyORM.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Using Consul for Health Checks with ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<http://cecilphillip.com/using-consul-for-health-checks-with-asp-net-core/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "The Microsoft.AspNetCore.All metapackage is huge, and that's awesome, thanks to the .NET Core runtime store",
+      "Description": null,
+      "FromUrl": "<https://andrewlock.net/the-microsoft-aspnetcore-all-metapackage-is-huge-and-thats-awesome-thanks-to-the-net-core-runtime-store-2/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Azure Cosmos DB",
+      "Description": "Globally distributed, multi-model database service",
+      "FromUrl": "<https://azure.microsoft.com/en-us/services/cosmos-db/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Exploring CQRS within the Brighter .NET open source project",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/ExploringCQRSWithinTheBrighterNETOpenSourceProject.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "ASP.NET Core MVC Anatomy (Part 1) – AddMvcCoreDissecting and understanding the internals of ASP.NET Core MVC",
+      "Description": null,
+      "FromUrl": "<https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Disposing resources at the end of ASP.NET Core request",
+      "Description": null,
+      "FromUrl": "<https://www.strathweb.com/2017/03/disposing-resources-at-the-end-of-asp-net-core-request/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Using React, Redux and Webpack with Dotnet Core to build a modern web frontend",
+      "Description": null,
+      "FromUrl": "<https://medium.com/@MaartenSikkema/using-react-redux-and-webpack-with-dotnet-core-to-build-a-modern-web-frontend-7e2d091b3ba> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Get Solarized - Awesome command prompt colors for VS, VS Code, cmd, PowerShell, and more",
+      "Description": null,
+      "FromUrl": "<https://www.hanselman.com/blog/GetSolarizedAwesomeCommandPromptColorsForVSVSCodeCmdPowerShellAndMore.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Orleans is a framework that provides a straightforward approach to building distributed high-scale computing applications",
+      "Description": null,
+      "FromUrl": "<http://dotnet.github.io/orleans/index.html> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "C# 7 Features with Mads Torgersen (Channel 9)",
+      "Description": null,
+      "FromUrl": "<https://channel9.msdn.com/Shows/Code-Conversations/C-7-Features-with-Mads-Torgersen> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Understanding & Profiling C# Async Await Tasks",
+      "Description": "Prefix runs on your workstation and helps you understand what your code is doing and how it performs. Our server based product, Retrace, provides the same visualization for your production and non-production applications. Retrace starts at just $10 a month.",
+      "FromUrl": "<https://stackify.com/csharp-async-await-task-performance/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Welcome to Azure Machine Learning",
+      "Description": null,
+      "FromUrl": "<https://studio.azureml.net/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Angular.io documents",
+      "Description": null,
+      "FromUrl": "<https://angular.io/guide/architecture> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "From 0 to 100 with this ASP.NET Core/AngularX Project Template",
+      "Description": null,
+      "FromUrl": "<https://channel9.msdn.com/coding4fun/blog/From-0-to-100-with-this-ASPNET-CoreAngularX-Project-Template> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Scratch - Create stories, games, and animations",
+      "Description": "Share with others around the world",
+      "FromUrl": "<https://scratch.mit.edu/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Improving Feedback When Editing HTML",
+      "Description": null,
+      "FromUrl": "<https://visualstudiomagazine.com/articles/2017/07/07/tip-visual-studio-feedback-editing-html.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "ASP.NET Core Demystified - Model Binding in MVC",
+      "Description": null,
+      "FromUrl": "<https://www.exceptionnotfound.net/asp-net-core-demystified-model-binding-in-mvc/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Babylon.js is an open source framework that allows you to create stunning 3D experiences in your browser. ",
+      "Description": null,
+      "FromUrl": "<https://blogs.windows.com/buildingapps/2017/07/12/announcing-babylon-js-3-0/#TqkWflqXyv9cqsRD.97> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Anti-Forgery Validation in ASP.NET Core",
+      "Description": "<author:Dino Esposito>",
+      "FromUrl": "<https://www.red-gate.com/simple-talk/dotnet/asp-net/anti-forgery-validation-asp-net-core/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Set User identity and IsAuthenticated in ASP.NET MVC Core controller tests",
+      "Description": null,
+      "FromUrl": "<http://hudosvibe.net/post/mock-user-identity-in-asp.net-mvc-core-controller-tests> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "SQL Server R Services: Digging into the R Language",
+      "Description": "It is not just the analytic power of R that you get from using SQL Server R Services, but also the great range of packages that can be run in R that provide a daunting range of graphing and plotting facilities. Robert Sheldon shows how you can take data held in SQL Server and, via SQL Server R Services, use an R package called ggPlot that offers a powerful graphics language for creating elegant and complex plots.",
+      "FromUrl": "<https://www.red-gate.com/simple-talk/sql/bi/sql-server-r-services-digging-r-language/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "A guide to caching in ASP.NET Core",
+      "Description": null,
+      "FromUrl": "<https://www.devtrends.co.uk/blog/a-guide-to-caching-in-asp.net-core> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Playing around with Apple's Core Image imaging technology, using some simple C# code to perform facial recognition and apply filters to photos",
+      "Description": null,
+      "FromUrl": "<https://visualstudiomagazine.com/articles/2017/07/01/core-image.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Azure Machine Learning (AML) is a cloud-based machine learning platform that has a very cool GUI",
+      "Description": null,
+      "FromUrl": "<https://feedly.com/i/entry/ZKWSj0qkTxR4dUEhSftrN1YHAJZ7ASPunTRRtxoYWbg=_15d7f32e85c:3215c1b:9493fdce> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Iris dataset on kaggle",
+      "Description": null,
+      "FromUrl": "<https://www.kaggle.com/chuckyin/iris-datasets> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Creating custom password validators for ASP.NET Core Identity",
+      "Description": null,
+      "FromUrl": "<https://andrewlock.net/creating-custom-password-validators-for-asp-net-core-identity-2/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Creating a validator to check for common passwords in ASP.NET Core Identity",
+      "Description": null,
+      "FromUrl": "<https://andrewlock.net/creating-a-validator-to-check-for-common-passwords-in-asp-net-core-identity/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Dealing with Horrid, No-Good, Very-Bad APIs Using JSON.NET",
+      "Description": null,
+      "FromUrl": "<http://trycatchfail.com/blog/post/Dealing-with-Horrid-No-Good-Very-Bad-APIs-Using-JSONNET> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "In-Memory ASP.NET Core Integration Tests with TestServer",
+      "Description": null,
+      "FromUrl": "<https://visualstudiomagazine.com/articles/2017/07/01/testserver.aspx> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Customizing query string parameter binding in ASP.NET Core MVC",
+      "Description": null,
+      "FromUrl": "<https://www.strathweb.com/2017/07/customizing-query-string-parameter-binding-in-asp-net-core-mvc/> ",
+      "Tag": null,
+      "Author": null
+    },
+    {
+      "LinkPostedDate": "2017-07-01T13:55:24",
+      "Title": "Serilog",
+      "Description": null,
+      "FromUrl": "<https://github.com/serilog/serilog/wiki> ",
+      "Tag": null,
+      "Author": null
+    }
+  ]
+}
