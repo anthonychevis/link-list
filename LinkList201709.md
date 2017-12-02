@@ -1,4 +1,4 @@
-# Place heading here
+# Month of 2017-09
 __Kubernetes vs. Docker: Comparing Containerization Platforms__  
 <<http://technologyadvice.com/blog/information-technology/kubernetes-vs-docker/> >  
 ***
